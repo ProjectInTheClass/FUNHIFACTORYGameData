@@ -79,7 +79,6 @@
         "choices": [
             {
                 "text": "...",
-                "likability": [],
                 "chatType" : "monologue",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -87,7 +86,6 @@
             },
             {
                 "text": "아 피곤해.",
-                "likability": [],
                 "chatType" : "monologue",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -96,7 +94,6 @@
             },
             {
                 "text": "재미없어.",
-                "likability": [],
                 "chatType" : "monologue",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -124,7 +121,6 @@
         "choices": [
             {
                 "text": "하아.",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -132,7 +128,6 @@
             },
             {
                 "text": "...",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -168,7 +163,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -176,7 +170,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -239,7 +232,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -247,7 +239,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -299,7 +290,6 @@
         "choices": [
             {
                 "text": "여기서 그려야겠다.",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "happy1",
@@ -307,7 +297,6 @@
             },
             {
                 "text": "음..그래도 좀 더 둘러보고 그릴래.",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "happy1",
@@ -341,7 +330,6 @@
         "choices": [
             {
                 "text": "다 그리고 나서 안으로 들어가봐야지.",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "happy1",
@@ -349,7 +337,6 @@
             },
             {
                 "text": "다 그리면 여기서 그냥 쉬고 있어야 겠다.",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -402,7 +389,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -410,7 +396,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -480,7 +465,6 @@
         "choices": [
             {
                 "text": "내 상상으로 그려보지 뭐.",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -488,7 +472,6 @@
             },
             {
                 "text": "다른 나라랑 좀 비슷하겠지?",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -524,7 +507,6 @@
         "choices": [
             {
                 "text": "그냥 내 감으로 그리지 뭐.",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -532,7 +514,6 @@
             },
             {
                 "text": "아 몰라. 귀찮아.",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -566,7 +547,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -574,7 +554,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -610,7 +589,6 @@
         "choices": [
             {
                 "text": "슬슬 돌아가봐야겠어.",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -618,7 +596,6 @@
             },
             {
                 "text": "다시 돌아가기도 귀찮네.",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -645,7 +622,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -653,7 +629,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -680,7 +655,6 @@
         "choices": [
             {
                 "text": "뭐지? 확인해봐야겠다.",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "surprise1",
@@ -688,7 +662,6 @@
             },
             {
                 "text": "마저 하던 거부터 할래.",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -749,7 +722,6 @@
         "choices": [
             {
                 "text": "도대체 뭔데 자꾸 울려!",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "angry1",
@@ -757,7 +729,6 @@
             },
             {
                 "text": "아씨 진짜! 아침부터 화나게 하네. 방해하지 마!",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "angry2",
@@ -838,7 +809,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -846,7 +816,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -909,7 +878,6 @@
         "choices": [
             {
                 "text": "누구세요?",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -917,7 +885,6 @@
             },
             {
                 "text": "당신 뭐야?",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -959,7 +926,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -967,7 +933,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -1048,7 +1013,6 @@
         "choices": [
             {
                 "text": "헉...죄송합니다.",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "surprise2",
@@ -1056,7 +1020,6 @@
             },
             {
                 "text": "...",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "straight",
@@ -1119,7 +1082,6 @@
         "choices": [
             {
                 "text": "그게 무슨 말인가요?",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "surprise1",
@@ -1127,7 +1089,6 @@
             },
             {
                 "text": "네?",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "surprise1",
@@ -1163,7 +1124,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -1171,7 +1131,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -1207,7 +1166,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -1215,7 +1173,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -1269,7 +1226,6 @@
         "choices": [
             {
                 "text": "헉 그럴 수가...",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "surprise1",
@@ -1277,7 +1233,6 @@
             },
             {
                 "text": "말도 안 되는 소리 하지 마세요!",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "angry2",
@@ -1322,7 +1277,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -1330,7 +1284,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -1402,7 +1355,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -1410,7 +1362,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -1455,7 +1406,6 @@
         "choices": [
             {
                 "text": "근데 왜 제가 필요해요?",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "sad",
@@ -1463,7 +1413,6 @@
             },
             {
                 "text": "그럼 과거를 바꾼다는 말인가요..?",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "sad",
@@ -1517,7 +1466,6 @@
         "choices": [
             {
                 "text": "고민 돼.",
-                "likability": [],
                 "chatType" : "monologue",
                 "optionalOption" : null,
                 "characterFace" : "sad",
@@ -1525,7 +1473,6 @@
             },
             {
                 "text": "겨우 내가 뭘 할 수 있다고?",
-                "likability": [],
                 "chatType" : "monologue",
                 "optionalOption" : null,
                 "characterFace" : "sad",
@@ -1561,7 +1508,6 @@
         "choices": [
             {
                 "text": "저에겐 너무 부담스러운 일이에요.",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "sad",
@@ -1569,7 +1515,6 @@
             },
             {
                 "text": "걱정되긴 하지만, 그래도 해 볼게요.",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "happy1",
@@ -1596,7 +1541,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -1604,7 +1548,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -1640,7 +1583,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -1648,7 +1590,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -1684,7 +1625,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -1692,7 +1632,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -1728,7 +1667,6 @@
         "choices": [
             {
                 "text": "왜 힘이 사라졌는데요?",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "surprise1",
@@ -1736,7 +1674,6 @@
             },
             {
                 "text": "그게 무슨 말씀이세요?",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "surprise1",
@@ -1808,7 +1745,6 @@
         "choices": [
             {
                 "text": "그럼...어떻게 되는데요?",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "surprise1",
@@ -1816,7 +1752,6 @@
             },
             {
                 "text": "지금도 약해지고 있는 건가요?",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "surprise1",
@@ -1870,7 +1805,6 @@
         "choices": [
             {
                 "text": "그렇긴 하겠네요..",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "sad",
@@ -1878,7 +1812,6 @@
             },
             {
                 "text": "이미 너덜너덜 해졌겠죠...",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "sad",
@@ -1905,7 +1838,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -1913,7 +1845,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -1940,7 +1871,6 @@
         "choices": [
             {
                 "text": "사라지면 어떻게 되는데요?",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "surprise2",
@@ -1948,7 +1878,6 @@
             },
             {
                 "text": "네???",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "sad",
@@ -1956,7 +1885,6 @@
             },
             {
                 "text": "...",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -2019,7 +1947,6 @@
         "choices": [
             {
                 "text": "그래도...저에겐 너무 어려운 일이에요.",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "sad",
@@ -2027,7 +1954,6 @@
             },
             {
                 "text": "그치만...저에겐 너무 무거운 일인 걸요.",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "sad",
@@ -2090,7 +2016,6 @@
         "choices": [
             {
                 "text": "그래도...저에겐 너무 어려운 일이에요.",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -2098,7 +2023,6 @@
             },
             {
                 "text": "그치만...저에겐 너무 무거운 일인 걸요.",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -2170,7 +2094,6 @@
         "choices": [
             {
                 "text": "그래도...저에겐 너무 어려운 일이에요.",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "sad",
@@ -2178,7 +2101,6 @@
             },
             {
                 "text": "그치만...저에겐 너무 무거운 일인 걸요.",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "sad",
@@ -2241,7 +2163,6 @@
         "choices": [
             {
                 "text": "아하...",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -2249,7 +2170,6 @@
             },
             {
                 "text": "겨우 같은 피가 섞여서요?",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "straight",
@@ -2294,7 +2214,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -2302,7 +2221,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -2347,7 +2265,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -2355,7 +2272,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -2391,7 +2307,6 @@
         "choices": [
             {
                 "text": "제 소원은...",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -2399,7 +2314,6 @@
             },
             {
                 "text": "저는...그래도 못 하겠어요.",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "sad",
@@ -2426,7 +2340,6 @@
         "choices": [
             {
                 "text": "제 삶을 행복하게 해주세요.",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -2434,7 +2347,6 @@
             },
             {
                 "text": "부모님을 찾아주세요.",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -2442,7 +2354,6 @@
             },
             {
                 "text": "제 고양이가 저랑 평생 살았으면 좋겠어요.",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "happy1",
@@ -2450,7 +2361,6 @@
             },
             {
                 "text": "....",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "straight",
@@ -2549,7 +2459,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -2557,7 +2466,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -2593,7 +2501,6 @@
         "choices": [
             {
                 "text": "다시 저와 같이 살 수도 있어요.",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "happy1",
@@ -2601,7 +2508,6 @@
             },
             {
                 "text": "하...어떤 표정을 지을 지 참 궁금하네요.",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "straight",
@@ -2646,7 +2552,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -2654,7 +2559,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -2717,7 +2621,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -2725,7 +2628,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -2779,7 +2681,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -2787,7 +2688,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -2841,7 +2741,6 @@
         "choices": [
             {
                 "text": "비밀이에요.",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -2849,7 +2748,6 @@
             },
             {
                 "text": "루스예요.",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "happy2",
@@ -2936,7 +2834,6 @@
         "choices": [
             {
                 "text": "내 이야기를 해볼까..",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -2944,7 +2841,6 @@
             },
             {
                 "text": "내 이야기는 하지 말자.",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "straight",
@@ -2998,7 +2894,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -3006,7 +2901,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -3042,7 +2936,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -3050,7 +2943,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -3102,7 +2994,6 @@
         "choices": [
             {
                 "text": "내 이야기를 해볼까..",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -3110,7 +3001,6 @@
             },
             {
                 "text": "내 이야기는 하지 말자.",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "straight",
@@ -3182,7 +3072,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -3190,7 +3079,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -3225,7 +3113,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -3233,7 +3120,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -3286,7 +3172,6 @@
         "choices": [
             {
                 "text": "왜...왜 아무 것도 안 떠오르는 거냐고.",
-                "likability": [],
                 "chatType" : "monologue",
                 "optionalOption" : null,
                 "characterFace" : "straight",
@@ -3294,7 +3179,6 @@
             },
             {
                 "text": "....",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "straight",
@@ -3338,7 +3222,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -3346,7 +3229,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -3399,7 +3281,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -3407,7 +3288,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -3460,7 +3340,6 @@
         "choices": [
             {
                 "text": "어..? 이렇게 그냥 가요?",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "surprise1",
@@ -3468,7 +3347,6 @@
             },
             {
                 "text": "네..",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "sad",
@@ -3530,7 +3408,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -3538,7 +3415,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -3564,7 +3440,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -3572,7 +3447,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -3607,7 +3481,6 @@
         "choices": [
             {
                 "text": "꿈은 아니었구나.",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "sad",
@@ -3615,7 +3488,6 @@
             },
             {
                 "text": "나한테 도대체 무슨 일이 일어났었던 거야..",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "sad",
@@ -3731,7 +3603,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -3739,7 +3610,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -3783,7 +3653,6 @@
         "choices": [
             {
                 "text": "손이요?",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "surprise1",
@@ -3791,7 +3660,6 @@
             },
             {
                 "text": "손만 잡고 있으면 끝인가요?",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "surprise1",
@@ -3835,7 +3703,6 @@
         "choices": [
             {
                 "text": "네????",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "surprise2",
@@ -3843,7 +3710,6 @@
             },
             {
                 "text": "그게 가능해요??",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "surprise2",
@@ -3896,7 +3762,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -3904,7 +3769,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -3957,7 +3821,6 @@
         "choices": [
             {
                 "text": "그런데 제 몸만 여기에 남으면 좀 불안한 걸요..",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "scared",
@@ -3965,7 +3828,6 @@
             },
             {
                 "text": "제 몸만 여기 남아있는 게 좀 마음에 걸리네요...",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "sad",
@@ -4027,7 +3889,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -4035,7 +3896,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -4070,7 +3930,6 @@
         "choices": [
             {
                 "text": "무슨 문제요?",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "surprise1",
@@ -4078,7 +3937,6 @@
             },
             {
                 "text": "왜요?",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "surprise1",
@@ -4104,7 +3962,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -4112,7 +3969,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -4174,7 +4030,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -4182,7 +4037,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -4208,7 +4062,6 @@
         "choices": [
             {
                 "text": "헉!",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "scared",
@@ -4216,7 +4069,6 @@
             },
             {
                 "text": "일부러 겁 주지 마세요..!",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "scared",
@@ -4260,7 +4112,6 @@
         "choices": [
             {
                 "text": "아...아뇨! 한 가지 더요.",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "surprise2",
@@ -4268,7 +4119,6 @@
             },
             {
                 "text": "자..잠깐만요!",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "surprise2",
@@ -4330,7 +4180,6 @@
         "choices": [
             {
                 "text": "1초요?",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "surprise2",
@@ -4338,7 +4187,6 @@
             },
             {
                 "text": "완전 짧네요..?",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "surprise1",
@@ -4364,7 +4212,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -4372,7 +4219,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -4434,7 +4280,6 @@
         "choices": [
             {
                 "text": "잘..해볼게요.",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "happy1",
@@ -4442,7 +4287,6 @@
             },
             {
                 "text": "너무 부담주지 마세요..",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "scared",
@@ -4468,7 +4312,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -4476,7 +4319,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -4538,7 +4380,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -4546,7 +4387,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -4660,7 +4500,6 @@
         "choices": [
             {
                 "text": "이게 뭐예요?",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "surprise1",
@@ -4668,7 +4507,6 @@
             },
             {
                 "text": "칼 모양 목걸이네요.",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -4712,7 +4550,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -4720,7 +4557,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -4764,7 +4600,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -4772,7 +4607,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -4807,7 +4641,6 @@
         "choices": [
             {
                 "text": "신기하네요.",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "surprise1",
@@ -4815,7 +4648,6 @@
             },
             {
                 "text": "역시 신의 물건이라 다르구나.",
-                "likability": [],
                 "chatType" : "monologue",
                 "optionalOption" : null,
                 "characterFace" : "surprise1",
@@ -4859,7 +4691,6 @@
         "choices": [
             {
                 "text": "왜..왜요???!",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "scared",
@@ -4867,7 +4698,6 @@
             },
             {
                 "text": "그것도 조종하시면 되잖아요!",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "scared",
@@ -4920,7 +4750,6 @@
         "choices": [
             {
                 "text": "아하...",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "sad",
@@ -4928,7 +4757,6 @@
             },
             {
                 "text": "네...알겠어요.",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "sad",
@@ -4990,7 +4818,6 @@
         "choices": [
             {
                 "text": "아하...",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "sad",
@@ -4998,7 +4825,6 @@
             },
             {
                 "text": "네...알겠어요.",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "sad",
@@ -5042,7 +4868,6 @@
         "choices": [
             {
                 "text": "그게 무슨 소리예요?!?!",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "surprise2",
@@ -5050,7 +4875,6 @@
             },
             {
                 "text": "그런 말 없었잖아요!!",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "surprise2",
@@ -5118,7 +4942,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -5126,7 +4949,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -5170,7 +4992,6 @@
         "choices": [
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -5178,7 +4999,6 @@
             },
             {
                 "text": "",
-                "likability": [],
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
