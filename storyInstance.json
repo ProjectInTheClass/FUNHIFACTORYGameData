@@ -102,7 +102,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "off",
+        "isGodChat": false,
         "backGroundMusic":"normal"
     },
     {
@@ -135,7 +135,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "off",
+        "isGodChat": false,
         "backGroundMusic":"normal"
     },
     {
@@ -177,7 +177,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "off",
+        "isGodChat": false,
         "backGroundMusic":"normal"
     },
     {
@@ -246,7 +246,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "off",
+        "isGodChat": false,
         "backGroundMusic":"normal"
     },
     {
@@ -304,7 +304,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "off",
+        "isGodChat": false,
         "backGroundMusic":"normal"
     },
     {
@@ -344,7 +344,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "off",
+        "isGodChat": false,
         "backGroundMusic":"normal"
     },
     {
@@ -403,7 +403,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "off",
+        "isGodChat": false,
         "backGroundMusic":"normal"
     },
     {
@@ -479,7 +479,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "off",
+        "isGodChat": false,
         "backGroundMusic":"normal"
     },
     {
@@ -521,7 +521,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "off",
+        "isGodChat": false,
         "backGroundMusic":"normal"
     },
     {
@@ -561,7 +561,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "off",
+        "isGodChat": false,
         "backGroundMusic":"normal"
     },
     {
@@ -603,7 +603,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "off",
+        "isGodChat": false,
         "backGroundMusic":"normal"
     },
     {
@@ -636,7 +636,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "off",
+        "isGodChat": false,
         "backGroundMusic":"normal"
     },
     {
@@ -669,7 +669,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "off",
+        "isGodChat": false,
         "backGroundMusic":"normal"
     },
     {
@@ -736,7 +736,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "off",
+        "isGodChat": false,
         "backGroundMusic":"normal"
     },
     {
@@ -823,7 +823,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "off",
+        "isGodChat": false,
         "backGroundMusic":"normal"
     },
     {
@@ -892,7 +892,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -940,7 +940,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -1027,7 +1027,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -1096,7 +1096,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -1138,7 +1138,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -1180,7 +1180,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -1240,7 +1240,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -1291,7 +1291,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -1369,7 +1369,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -1420,7 +1420,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -1480,7 +1480,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -1522,7 +1522,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -1555,7 +1555,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -1597,7 +1597,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -1639,7 +1639,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -1681,7 +1681,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -1759,7 +1759,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -1819,7 +1819,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -1852,7 +1852,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -1892,7 +1892,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -1961,7 +1961,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -2030,7 +2030,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -2108,7 +2108,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -2177,7 +2177,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -2228,7 +2228,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -2279,7 +2279,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -2321,7 +2321,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -2368,7 +2368,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -2473,7 +2473,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -2515,7 +2515,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -2566,7 +2566,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -2635,7 +2635,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -2695,7 +2695,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -2755,7 +2755,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -2848,7 +2848,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -2908,7 +2908,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -2950,7 +2950,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -3008,7 +3008,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -3086,7 +3086,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -3127,7 +3127,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -3186,7 +3186,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -3236,7 +3236,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -3295,7 +3295,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -3354,7 +3354,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -3422,7 +3422,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -3454,7 +3454,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -3495,7 +3495,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "off",
+        "isGodChat": false,
         "backGroundMusic":"normal"
     },
     {
@@ -3617,7 +3617,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "off",
+        "isGodChat": false,
         "backGroundMusic":"normal"
     },
     {
@@ -3667,7 +3667,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -3717,7 +3717,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -3776,7 +3776,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -3835,7 +3835,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -3903,7 +3903,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -3944,7 +3944,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -3976,7 +3976,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -4044,7 +4044,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -4076,7 +4076,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -4126,7 +4126,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -4194,7 +4194,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -4226,7 +4226,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -4294,7 +4294,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -4326,7 +4326,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -4394,7 +4394,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -4514,7 +4514,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -4564,7 +4564,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -4614,7 +4614,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -4655,7 +4655,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -4705,7 +4705,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -4764,7 +4764,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -4832,7 +4832,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -4882,7 +4882,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -4956,7 +4956,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat": "on",
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -5006,7 +5006,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodChat" : "on",
+        "isGodChat" : true,
         "backGroundMusic":"normal"
     }
 
