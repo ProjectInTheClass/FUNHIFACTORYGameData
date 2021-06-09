@@ -1544,14 +1544,14 @@
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
-                "nextTextIndex": "087"
+                "nextTextIndex": "088"
             },
             {
                 "text": "",
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
-                "nextTextIndex": "087"
+                "nextTextIndex": "088"
             }
         ],
         "choiceSkip": true,
@@ -4871,14 +4871,14 @@
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "surprise2",
-                "nextTextIndex": "087"
+                "nextTextIndex": "088"
             },
             {
                 "text": "그런 말 없었잖아요!!",
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "surprise2",
-                "nextTextIndex": "087"
+                "nextTextIndex": "088"
             }
         ],
         "choiceSkip": false,
@@ -4886,7 +4886,7 @@
         "backGroundMusic":"normal"
     },
     {
-        "id": "086",
+        "id": "087",
         "chats": [
             {
                 "text": "그러니까 네 마음 먹기에 달렸다는 말인 거다.",
@@ -4960,7 +4960,7 @@
         "backGroundMusic":"normal"
     },
     {
-        "id": "087",
+        "id": "088",
         "chats": [
             {
                 "text": "네가 원하는 걸 말해보렴.",
