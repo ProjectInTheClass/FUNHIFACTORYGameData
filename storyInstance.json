@@ -3,13 +3,13 @@
         "id": "001",
         "chats": [
             {
-                "text": "",
+                
                 "image": "prologueAlbumImage1",
                 "animationOption": "none",
                 "type": "untouchableImage",
                 "who": "danhee",
-                "optionalOption" : null,
-                "characterFace": "none"
+                "optionalOption" : null
+                
             },
             {
                 "text": "나는 서울에 사는 평범한 학생이다.",
