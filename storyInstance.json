@@ -812,7 +812,7 @@
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
-                "nextTextIndex": "badEnding"
+                "nextTextIndex": "ending03"
             },
             {
                 "text": "",
@@ -3606,7 +3606,7 @@
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
-                "nextTextIndex": "badEnding"
+                "nextTextIndex": "ending03"
             },
             {
                 "text": "",
