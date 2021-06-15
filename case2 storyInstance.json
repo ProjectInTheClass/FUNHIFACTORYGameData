@@ -13442,7 +13442,7 @@
         },
         {
             "text": "",
-            "image": "Huijeongdang_fire",
+            "image": "huijeongdang_fire",
             "animationOption": "none",
             "type": "untouchableImage",
             "who": "extra1",
@@ -13451,7 +13451,7 @@
                 "informationToUnlock": null,
                 "gameCharacterToUnlock": null,
                 "caseToUnlock": null,
-                "albumImageToUnlock": "Huijeongdang_fire"
+                "albumImageToUnlock": "huijeongdang_fire"
             },
             "characterFace": "none"
         },
@@ -13814,7 +13814,7 @@
         },
         {
             "text": "",
-            "image": "Huwon_Garden_fire",
+            "image": "huwon_Garden_fire",
             "animationOption": "none",
             "type": "untouchableImage",
             "who": "danhee2",
@@ -13823,7 +13823,7 @@
                 "informationToUnlock": null,
                 "gameCharacterToUnlock": null,
                 "caseToUnlock": null,
-                "albumImageToUnlock": "Huwon_Garden_fire"
+                "albumImageToUnlock": "huwon_Garden_fire"
             },
             "characterFace": "surprise1"
         }

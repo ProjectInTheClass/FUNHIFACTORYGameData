@@ -4,12 +4,17 @@
         "chats": [
             {
                 
-                "image": "prologueAlbumImage1",
+                "image": "donhwamun_with_danhee",
                 "animationOption": "none",
                 "type": "untouchableImage",
                 "who": "danhee",
-                "optionalOption" : null
-                
+                "optionalOption" : {
+                    "achievementToUnlock": null,
+                    "informationToUnlock": null,
+                    "gameCharacterToUnlock": null,
+                    "caseToUnlock": null,
+                    "albumImageToUnlock": "donhwamun_with_danhee"
+                }
             },
             {
                 "text": "나는 서울에 사는 평범한 학생이다.",
@@ -264,7 +269,7 @@
                     "informationToUnlock": null,
                     "gameCharacterToUnlock": null,
                     "caseToUnlock": null,
-                    "albumImageToUnlock": "donhwamun"
+                    "albumImageToUnlock": null
                 },
                 "characterFace": "none"
             },
@@ -316,14 +321,7 @@
                 "animationOption": "none",
                 "type": "sectionHeader",
                 "who": "danhee",
-                "optionalOption" :
-                {
-                    "achievementToUnlock": "donhwamun",
-                    "informationToUnlock": null,
-                    "gameCharacterToUnlock": null,
-                    "caseToUnlock": null,
-                    "albumImageToUnlock": "donhwamun"
-                },
+                "optionalOption" : null,
                 "characterFace": "happy2"
             }
         ],
@@ -352,17 +350,17 @@
         "chats": [
             {
                 "text": "",
-                "image": "prologue image 2",
+                "image": "drawing_geumcheongyo",
                 "animationOption": "none",
                 "type": "untouchableImage",
                 "who": "danhee",
                 "optionalOption" :
                 {
-                    "achievementToUnlock": "geumcheongyo",
+                    "achievementToUnlock": null,
                     "informationToUnlock": null,
                     "gameCharacterToUnlock": null,
                     "caseToUnlock": null,
-                    "albumImageToUnlock": "geumcheongyo"
+                    "albumImageToUnlock": "drawing_geumcheongyo"
                 },
                 "characterFace": "none"
                 
@@ -421,7 +419,7 @@
                     "informationToUnlock": null,
                     "gameCharacterToUnlock": null,
                     "caseToUnlock": null,
-                    "albumImageToUnlock": "geumcheongyo"
+                    "albumImageToUnlock": null
                 },
                 "characterFace": "none"
             },
@@ -529,7 +527,7 @@
         "chats": [
             {
                 "text": "",
-                "image": "prologue image 3",
+                "image": "drawing_injeongjeon",
                 "animationOption": "none",
                 "type": "untouchableImage",
                 "who": "danhee",
@@ -539,7 +537,7 @@
                     "informationToUnlock": null,
                     "gameCharacterToUnlock": null,
                     "caseToUnlock": null,
-                    "albumImageToUnlock": "injeongjeon"
+                    "albumImageToUnlock": "drawing_injeongjeon"
                 },
                 "characterFace": "none"
             }
@@ -677,18 +675,11 @@
         "chats": [
             {
                 "text": "",
-                "image": "prologue image 3",
+                "image": "drawing_injeongjeon",
                 "animationOption": "none",
                 "type": "untouchableImage",
                 "who": "danhee",
-                "optionalOption" :
-                {
-                    "achievementToUnlock": "injeongjeon",
-                    "informationToUnlock": null,
-                    "gameCharacterToUnlock": null,
-                    "caseToUnlock": null,
-                    "albumImageToUnlock": "injeongjeon"
-                },
+                "optionalOption" : null,
                 "characterFace": "none"
             },
             {
@@ -830,15 +821,6 @@
         "id": "016",
         "chats": [
             {
-                "text": "",
-                "image": "hwiryeongHighPixel",
-                "animationOption": "none",
-                "type": "untouchableImage",
-                "who": "danhee",
-                "optionalOption" : null,
-                "characterFace": "none"
-            },
-            {
                 "text": "드디어 올 줄 알았네!",
                 "image": "",
                 "animationOption": "none",
@@ -906,6 +888,15 @@
                 "who": "hwiryeong",
                 "optionalOption" : null,
                 "characterFace": "basic"
+            },
+            {
+                "text": "",
+                "image": "prolog_hwiryeong",
+                "animationOption": "none",
+                "type": "untouchableImage",
+                "who": "danhee",
+                "optionalOption" : null,
+                "characterFace": "none"
             },
             {
                 "text": "나는 이곳 창덕궁의 수호신이자 조선의 신인 휘령이다.",
@@ -2485,7 +2476,13 @@
                 "animationOption": "none",
                 "type": "onlyText",
                 "who": "danhee",
-                "optionalOption" : null,
+                "optionalOption" : {
+                    "achievementToUnlock": "parents",
+                    "informationToUnlock": null,
+                    "gameCharacterToUnlock": null,
+                    "caseToUnlock": null,
+                    "albumImageToUnlock": null
+                },
                 "characterFace": "angry1"
             },
             {
@@ -2749,7 +2746,13 @@
             {
                 "text": "루스예요.",
                 "chatType" : "onlyText",
-                "optionalOption" : null,
+                "optionalOption" : {
+                    "achievementToUnlock": "cat",
+                    "informationToUnlock": null,
+                    "gameCharacterToUnlock": null,
+                    "caseToUnlock": null,
+                    "albumImageToUnlock": null
+                },
                 "characterFace" : "happy2",
                 "nextTextIndex": "053"
             }
@@ -2803,7 +2806,29 @@
                 "animationOption": "none",
                 "type": "onlyText",
                 "who": "danhee",
-                "optionalOption" : null,
+                "optionalOption" : {
+                    "achievementToUnlock": "cat",
+                    "informationToUnlock": null,
+                    "gameCharacterToUnlock": null,
+                    "caseToUnlock": null,
+                    "albumImageToUnlock": null
+                },
+                "characterFace": "none"
+            },
+            {
+                "text": "",
+                "image": "prolog_danhee",
+                "animationOption": "none",
+                "type": "untouchableImage",
+                "who": "danhee",
+                "optionalOption" :
+                {
+                    "achievementToUnlock": null,
+                    "informationToUnlock": null,
+                    "gameCharacterToUnlock": null,
+                    "caseToUnlock": null,
+                    "albumImageToUnlock": "prolog_danhee"
+                },
                 "characterFace": "none"
             },
             {
@@ -2814,21 +2839,6 @@
                 "who": "hwiryeong",
                 "optionalOption" : null,
                 "characterFace": "basic"
-            },
-            {
-                "text": "",
-                "image": "cat",
-                "animationOption": "none",
-                "type": "untouchableImage",
-                "who": "danhee",
-                "optionalOption" :
-                {
-                    "achievementToUnlock": "cat",
-                    "informationToUnlock": null,
-                    "gameCharacterToUnlock": null,
-                    "caseToUnlock": null
-                },
-                "characterFace": "none"
             }
         ],
         "choices": [
@@ -2957,6 +2967,22 @@
         "id": "053",
         "chats": [
             {
+                "text": "",
+                "image": "",
+                "animationOption": "none",
+                "type": "untouchableImage",
+                "who": "danhee",
+                "optionalOption" :
+                {
+                    "achievementToUnlock": null,
+                    "informationToUnlock": null,
+                    "gameCharacterToUnlock": null,
+                    "caseToUnlock": null,
+                    "albumImageToUnlock":  "prolog_danhee"
+                },
+                "characterFace": "none"
+            },
+            {
                 "text": "루스라...",
                 "image": "",
                 "animationOption": "none",
@@ -2972,22 +2998,6 @@
                 "type": "onlyText",
                 "who": "hwiryeong",
                 "optionalOption" : null,
-                "characterFace": "none"
-            },
-            {
-                "text": "cat",
-                "image": "",
-                "animationOption": "none",
-                "type": "untouchableImage",
-                "who": "danhee",
-                "optionalOption" :
-                {
-                    "achievementToUnlock": "cat",
-                    "informationToUnlock": null,
-                    "gameCharacterToUnlock": null,
-                    "caseToUnlock": null,
-                    "albumImageToUnlock":  null
-                },
                 "characterFace": "none"
             }
         ],
@@ -4483,7 +4493,7 @@
             },
             {
                 "text": "",
-                "image": "prologue image 4",
+                "image": "necklace_in_hand",
                 "animationOption": "none",
                 "type": "untouchableImage",
                 "who": "hwiryeong",
@@ -4493,7 +4503,7 @@
                     "informationToUnlock": null,
                     "gameCharacterToUnlock": null,
                     "caseToUnlock":null,
-                    "albumImageToUnlock":"necklace"
+                    "albumImageToUnlock":"necklace_in_hand"
                 },
                 "characterFace": "none"
             }        ],
@@ -4621,7 +4631,7 @@
         "id": "082",
         "chats": [
             {
-                "text": "지금은 그저 검은색이지만,",
+                "text": "지금은 그저 푸른색이지만,",
                 "image": "",
                 "animationOption": "none",
                 "type": "onlyText",
@@ -4630,7 +4640,7 @@
                 "characterFace": "basic"
             },
             {
-                "text": "너가 점차 내 힘을 모은다면 점점 밝게 빛날 것이다.",
+                "text": "너가 사건을 해결해서 점차 내 힘을 모은다면 점점 밝게 빛날 것이다.",
                 "image": "",
                 "animationOption": "none",
                 "type": "onlyText",
@@ -4912,13 +4922,7 @@
                 "animationOption": "none",
                 "type": "sectionHeader",
                 "who": "hwiryeong",
-                "optionalOption" :
-                {
-                    "achievementToUnlock": "faith",
-                    "informationToUnlock": null,
-                    "gameCharacterToUnlock": null,
-                    "caseToUnlock": null
-                },
+                "optionalOption" : null,
                 "characterFace": "none"
             },
             {
