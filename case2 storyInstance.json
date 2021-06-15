@@ -12976,7 +12976,7 @@
         {
             "text": "이전과 같은 역사는 어땠는지.",
             "image": "",
-            "animationOption": "페이드아웃",
+            "animationOption": "fadeOut",
             "type": "onlyText",
             "who": "hwiryeong",
             "optionalOption": null,
@@ -13007,7 +13007,7 @@
     "chats": [{
             "text": "정신을 차려보니 시간은 저녁 즈음이고, 나는 군복을 입고 있다.",
             "image": "",
-            "animationOption": "페이드인",
+            "animationOption": "fadeIn",
             "type": "sectionHeader",
             "who": "danhee",
             "optionalOption": null,
@@ -13998,7 +13998,7 @@
     "chats": [{
         "text": "그래. 그럼 가 거라.",
         "image": "",
-        "animationOption": "페이드아웃",
+        "animationOption": "fadeOut",
         "type": "onlyText",
         "who": "hwiryeong",
         "optionalOption": null,
@@ -14144,7 +14144,7 @@
         {
             "text": "으아아아아악!",
             "image": "",
-            "animationOption": "페이드아웃",
+            "animationOption": "fadeOut",
             "type": "onlyText",
             "who": "danhee2",
             "optionalOption": null,
@@ -14175,7 +14175,7 @@
     "chats": [{
             "text": "정신을 차려보니 난 다시 창덕궁이었다.",
             "image": "",
-            "animationOption": "페이드인",
+            "animationOption": "fadeIn",
             "type": "sectionHeader",
             "who": "hwiryeong",
             "optionalOption": null,
@@ -14220,7 +14220,7 @@
         {
             "text": "나는 그렇게 이 일들이 없는 듯이 다 잊으며 살아간다.",
             "image": "",
-            "animationOption": "페이드아웃",
+            "animationOption": "fadeOut",
             "type": "sectionHeader",
             "who": "hwiryeong",
             "optionalOption": null,
@@ -14251,7 +14251,7 @@
     "chats": [{
             "text": "저 멀리 밑에서 누가 걸어오는게 보인다.",
             "image": "",
-            "animationOption": "페이드인",
+            "animationOption": "fadeIn",
             "type": "sectionHeader",
             "who": "danhee2",
             "optionalOption": null,
