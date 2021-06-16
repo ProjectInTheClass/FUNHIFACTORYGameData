@@ -4881,14 +4881,14 @@
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "surprise2",
-                "nextTextIndex": "088"
+                "nextTextIndex": "087"
             },
             {
                 "text": "그런 말 없었잖아요!!",
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "surprise2",
-                "nextTextIndex": "088"
+                "nextTextIndex": "087"
             }
         ],
         "choiceSkip": false,
