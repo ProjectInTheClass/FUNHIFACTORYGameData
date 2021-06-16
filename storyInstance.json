@@ -2318,15 +2318,7 @@
     {
         "id": "043",
         "chats": [
-            {
-                "text": "",
-                "image": "",
-                "animationOption": "none",
-                "type": "onlyText",
-                "who": "hwiryeong",
-                "optionalOption" : null,
-                "characterFace": "none"
-            }
+         
         ],
         "choices": [
             {
@@ -4447,7 +4439,7 @@
                 "characterFace": "none"
             },
             {
-                "text": "쫄지마.",
+                "text": "쫄지 마.",
                 "image": "",
                 "animationOption": "none",
                 "type": "monologue",
