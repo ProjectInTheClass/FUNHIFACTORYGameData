@@ -61,7 +61,13 @@
         {
             "text": "광해군이 폐위된 사건이죠?",
             "chatType": "onlyText",
-            "optionalOption": null,
+            "optionalOption": {
+                "achievementToUnlock": null,
+                "informationToUnlock": null,
+                "gameCharacterToUnlock": "gwanghae",
+                "caseToUnlock": null,
+                "albumImageToUnlock": null
+            },
             "characterFace": "basic",
             "nextTextIndex": "004"
         }
@@ -245,7 +251,13 @@
             "animationOption": "none",
             "type": "onlyText",
             "who": "danhee",
-            "optionalOption": null,
+            "optionalOption": {
+                "achievementToUnlock": null,
+                "informationToUnlock": null,
+                "gameCharacterToUnlock": "injo",
+                "caseToUnlock": null,
+                "albumImageToUnlock": null
+            },
             "characterFace": "none"
         },
         {
@@ -285,7 +297,13 @@
             "animationOption": "none",
             "type": "onlyText",
             "who": "hwiryeong",
-            "optionalOption": null,
+            "optionalOption": {
+                "achievementToUnlock": null,
+                "informationToUnlock": null,
+                "gameCharacterToUnlock": "injo",
+                "caseToUnlock": null,
+                "albumImageToUnlock": null
+            },
             "characterFace": "none"
 
         },
@@ -295,7 +313,13 @@
             "animationOption": "none",
             "type": "onlyText",
             "who": "hwiryeong",
-            "optionalOption": null,
+            "optionalOption": {
+                "achievementToUnlock": null,
+                "informationToUnlock": null,
+                "gameCharacterToUnlock": "gwanghae",
+                "caseToUnlock": null,
+                "albumImageToUnlock": null
+            },
             "characterFace": "none"
         },
         {
@@ -13415,14 +13439,8 @@
             "image": "",
             "animationOption": "none",
             "type": "onlyText",
-            "who": "unknown",
-            "optionalOption": {
-                "achievementToUnlock": null,
-                "informationToUnlock": null,
-                "gameCharacterToUnlock": "injo",
-                "caseToUnlock": null,
-                "albumImageToUnlock": null
-            },
+            "who": "injo",
+            "optionalOption": null,
             "characterFace": "none"
         },
         {
