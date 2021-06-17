@@ -2194,7 +2194,13 @@
             "animationOption": "none",
             "type": "onlyText",
             "who": "unknown",
-            "optionalOption": null,
+            "optionalOption": {
+                "achievementToUnlock": null,
+                "informationToUnlock": null,
+                "gameCharacterToUnlock": "igwi",
+                "caseToUnlock": null,
+                "albumImageToUnlock": null
+            },
             "characterFace": "basic"
         },
         {
@@ -2986,7 +2992,13 @@
             "animationOption": "none",
             "type": "onlyText",
             "who": "kimman",
-            "optionalOption": null,
+            "optionalOption": {
+                "achievementToUnlock": null,
+                "informationToUnlock": null,
+                "gameCharacterToUnlock": "kimman",
+                "caseToUnlock": null,
+                "albumImageToUnlock": null
+            },
             "characterFace": "angry1"
         }
     ],
@@ -3238,7 +3250,13 @@
             "animationOption": "none",
             "type": "onlyText",
             "who": "kimman",
-            "optionalOption": null,
+            "optionalOption": {
+                "achievementToUnlock": null,
+                "informationToUnlock": null,
+                "gameCharacterToUnlock": "kimman",
+                "caseToUnlock": null,
+                "albumImageToUnlock": null
+            },
             "characterFace": "angry1"
         }
     ],
@@ -5950,7 +5968,13 @@
             "animationOption": "none",
             "type": "onlyText",
             "who": "kimwoman",
-            "optionalOption": null,
+            "optionalOption": {
+                "achievementToUnlock": null,
+                "informationToUnlock": null,
+                "gameCharacterToUnlock": "kimwoman",
+                "caseToUnlock": null,
+                "albumImageToUnlock": null
+            },
             "characterFace": "none"
         }
     ],
@@ -6066,7 +6090,13 @@
             "animationOption": "none",
             "type": "onlyText",
             "who": "kimwoman",
-            "optionalOption": null,
+            "optionalOption": {
+                "achievementToUnlock": null,
+                "informationToUnlock": null,
+                "gameCharacterToUnlock": "kimwoman",
+                "caseToUnlock": null,
+                "albumImageToUnlock": null
+            },
             "characterFace": "basictalk"
         },
         {
@@ -7095,14 +7125,26 @@
     "choices": [{
             "text": "김상궁을 못 만났습니다.",
             "chatType": "onlyText",
-            "optionalOption": null,
+            "optionalOption": {
+                "achievementToUnlock": "liar",
+                "informationToUnlock": null,
+                "gameCharacterToUnlock": null,
+                "caseToUnlock": null,
+                "albumImageToUnlock": null
+            },
             "characterFace": "none",
             "nextTextIndex": "135"
         },
         {
             "text": "전해주지 못했습니다.",
             "chatType": "onlyText",
-            "optionalOption": null,
+            "optionalOption": {
+                "achievementToUnlock": "liar",
+                "informationToUnlock": null,
+                "gameCharacterToUnlock": null,
+                "caseToUnlock": null,
+                "albumImageToUnlock": null
+            },
             "characterFace": "none",
             "nextTextIndex": "134"
         }
@@ -9158,7 +9200,13 @@
             "animationOption": "none",
             "type": "onlyText",
             "who": "poorman",
-            "optionalOption": null,
+            "optionalOption": {
+                "achievementToUnlock": null,
+                "informationToUnlock": null,
+                "gameCharacterToUnlock": "poorman",
+                "caseToUnlock": null,
+                "albumImageToUnlock": null
+            },
             "characterFace": "guard"
         },
         {
@@ -13004,13 +13052,29 @@
 },
 {
     "id": "240",
-    "chats": [{
-            "text": "정신을 차려보니 시간은 저녁 즈음이고, 나는 군복을 입고 있다.",
-            "image": "",
+    "chats": [
+        {
+            "text": "",
+            "image": "revolt_image",
             "animationOption": "fadeIn",
-            "type": "sectionHeader",
+            "type": "untouchableImage",
             "who": "danhee",
             "optionalOption": null,
+            "characterFace": "none"
+        },
+        {
+            "text": "정신을 차려보니 시간은 저녁 즈음이고, 나는 군복을 입고 있다.",
+            "image": "",
+            "animationOption": "none",
+            "type": "sectionHeader",
+            "who": "danhee",
+            "optionalOption": {
+                "achievementToUnlock": "revolt",
+                "informationToUnlock": null,
+                "gameCharacterToUnlock": null,
+                "caseToUnlock": null,
+                "albumImageToUnlock": null
+            },
             "characterFace": "none"
         },
         {
@@ -13099,7 +13163,7 @@
             "image": "",
             "animationOption": "none",
             "type": "onlyText",
-            "who": "extra1",
+            "who": "unknown",
             "optionalOption": null,
             "characterFace": "basic"
         },
@@ -13108,7 +13172,7 @@
             "image": "",
             "animationOption": "none",
             "type": "onlyText",
-            "who": "extra1",
+            "who": "unknown",
             "optionalOption": null,
             "characterFace": "none"
         },
@@ -13117,7 +13181,7 @@
             "image": "",
             "animationOption": "none",
             "type": "onlyText",
-            "who": "extra1",
+            "who": "unknown",
             "optionalOption": null,
             "characterFace": "none"
         }
@@ -13148,7 +13212,7 @@
         "image": "",
         "animationOption": "none",
         "type": "onlyText",
-        "who": "extra1",
+        "who": "unknown",
         "optionalOption": null,
         "characterFace": "basic"
     }],
@@ -13178,7 +13242,7 @@
         "image": "",
         "animationOption": "none",
         "type": "onlyText",
-        "who": "extra1",
+        "who": "unknown",
         "optionalOption": null,
         "characterFace": "basic"
     }],
@@ -13235,7 +13299,7 @@
             "image": "",
             "animationOption": "none",
             "type": "onlyText",
-            "who": "extra1",
+            "who": "unknown",
             "optionalOption": null,
             "characterFace": "basic"
         },
@@ -13253,7 +13317,7 @@
             "image": "",
             "animationOption": "none",
             "type": "onlyText",
-            "who": "extra1",
+            "who": "unknown",
             "optionalOption": null,
             "characterFace": "basic"
         },
@@ -13262,7 +13326,7 @@
             "image": "",
             "animationOption": "none",
             "type": "onlyText",
-            "who": "extra1",
+            "who": "unknown",
             "optionalOption": null,
             "characterFace": "basic"
         }
@@ -13302,7 +13366,7 @@
             "image": "",
             "animationOption": "none",
             "type": "onlyText",
-            "who": "extra1",
+            "who": "unknown",
             "optionalOption": null,
             "characterFace": "basic"
         },
@@ -13351,8 +13415,14 @@
             "image": "",
             "animationOption": "none",
             "type": "onlyText",
-            "who": "extra1",
-            "optionalOption": null,
+            "who": "unknown",
+            "optionalOption": {
+                "achievementToUnlock": null,
+                "informationToUnlock": null,
+                "gameCharacterToUnlock": "injo",
+                "caseToUnlock": null,
+                "albumImageToUnlock": null
+            },
             "characterFace": "none"
         },
         {
@@ -13360,7 +13430,7 @@
             "image": "",
             "animationOption": "none",
             "type": "onlyText",
-            "who": "extra1",
+            "who": "injo",
             "optionalOption": null,
             "characterFace": "none"
         },
@@ -13387,7 +13457,7 @@
             "image": "",
             "animationOption": "none",
             "type": "onlyText",
-            "who": "extra1",
+            "who": "injo",
             "optionalOption": null,
             "characterFace": "basic"
         },
@@ -13396,7 +13466,7 @@
             "image": "",
             "animationOption": "none",
             "type": "onlyText",
-            "who": "extra1",
+            "who": "injo",
             "optionalOption": null,
             "characterFace": "none"
         }
@@ -13427,7 +13497,7 @@
             "image": "",
             "animationOption": "none",
             "type": "onlyText",
-            "who": "extra1",
+            "who": "injo",
             "optionalOption": null,
             "characterFace": "basic"
         },
@@ -13447,7 +13517,7 @@
             "type": "untouchableImage",
             "who": "extra1",
             "optionalOption": {
-                "achievementToUnlock": null,
+                "achievementToUnlock": "huijeongdang",
                 "informationToUnlock": null,
                 "gameCharacterToUnlock": null,
                 "caseToUnlock": null,
@@ -13819,7 +13889,7 @@
             "type": "untouchableImage",
             "who": "danhee2",
             "optionalOption": {
-                "achievementToUnlock": null,
+                "achievementToUnlock": "huwon_garden",
                 "informationToUnlock": null,
                 "gameCharacterToUnlock": null,
                 "caseToUnlock": null,
