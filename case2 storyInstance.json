@@ -11025,7 +11025,7 @@
             "chatType": "onlyText",
             "optionalOption": null,
             "characterFace": "cry",
-            "nextTextIndex": "ending01"
+            "nextTextIndex": "endingDied"
         },
         {
             "text": "",
@@ -12944,7 +12944,7 @@
             "chatType": "onlyText",
             "optionalOption": null,
             "characterFace": "surprise1",
-            "nextTextIndex": "ending02"
+            "nextTextIndex": "endingLocked"
         },
         {
             "text": "설마..나 벌 받은 건가..?",
@@ -13020,7 +13020,7 @@
             "chatType": "onlyText",
             "optionalOption": null,
             "characterFace": "surprise1",
-            "nextTextIndex": "ending03"
+            "nextTextIndex": "endingReturn"
         },
         {
             "text": "설마..나 벌 받은 건가..?",
@@ -14320,7 +14320,7 @@
             "chatType": "onlyText",
             "optionalOption": null,
             "characterFace": "sad",
-            "nextTextIndex": "ending03"
+            "nextTextIndex": "endingReturn"
         },
         {
             "text": "그..그럼 제 소원은...!",
