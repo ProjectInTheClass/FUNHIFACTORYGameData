@@ -766,7 +766,13 @@
                 "animationOption": "none",
                 "type": "onlyText",
                 "who": "teacher",
-                "optionalOption" : null,
+                "optionalOption" : {
+                    "achievementToUnlock": null,
+                    "informationToUnlock": null,
+                    "gameCharacterToUnlock": "teacher",
+                    "caseToUnlock": null,
+                    "albumImageToUnlock" : null
+                },
                 "characterFace": "basic"
             },
             {
@@ -3572,7 +3578,13 @@
                 "animationOption": "none",
                 "type": "onlyText",
                 "who": "teacher",
-                "optionalOption" : null,
+                "optionalOption" : {
+                    "achievementToUnlock": null,
+                    "informationToUnlock": null,
+                    "gameCharacterToUnlock": "teacher",
+                    "caseToUnlock": null,
+                    "albumImageToUnlock" : null
+                },
                 "characterFace": "basic"
             },
             {
