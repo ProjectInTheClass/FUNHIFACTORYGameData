@@ -14,6 +14,7 @@
                     "gameCharacterToUnlock": null,
                     "caseToUnlock": null,
                     "albumImageToUnlock": "donhwamun_with_danhee"
+                    "checkPointToUnlock": "checkPoint_0_0_1"
                 }
             },
             {
@@ -833,7 +834,10 @@
                 "type": "onlyText",
                 "isGodChat": true,
                 "who": "hwiryeong",
-                "optionalOption" : null,
+                "optionalOption" : {
+                    
+                    "checkPointToUnlock": "checkPoint_0_0_2"
+                },
                 "characterFace": "happy1"
             },
             {
@@ -2380,7 +2384,10 @@
                 "type": "onlyText",
                 "isGodChat": true,
                 "who": "hwiryeong",
-                "optionalOption" : null,
+                "optionalOption" : {
+                    
+                    "checkPointToUnlock": "checkPoint_0_0_3"
+                },
                 "characterFace": "basic"
             },
             {

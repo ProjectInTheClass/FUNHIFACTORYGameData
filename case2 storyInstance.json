@@ -7,7 +7,10 @@
         "type": "onlyText",
         "isGodChat": true,
         "who": "hwiryeong",
-        "optionalOption": null,
+        "optionalOption": {
+            
+            "checkPointToUnlock": "checkPoint_2_0_1"
+        },
         "characterFace": "basic"
     }],
 
@@ -2198,7 +2201,10 @@
             "type": "sectionHeader",
         "isGodChat": true,
         "who": "danhee2",
-            "optionalOption": null,
+            "optionalOption": {
+                
+                "checkPointToUnlock": "checkPoint_2_0_2"
+            },
             "characterFace": "sad"
         },
         {
@@ -5756,7 +5762,10 @@
         "animationOption": "none",
         "type": "sectionHeader",
         "who": "danhee2",
-        "optionalOption": null,
+        "optionalOption": {
+            
+            "checkPointToUnlock": "checkPoint_2_0_3"
+        },
         "characterFace": "none"
     }],
     "choices": [{
@@ -7254,7 +7263,10 @@
         "animationOption": "none",
         "type": "sectionHeader",
         "who": "danhee2",
-        "optionalOption": null,
+        "optionalOption": {
+            
+            "checkPointToUnlock": "checkPoint_2_1_1"
+        },
         "characterFace": "baisc"
     }],
     "choices": [{
@@ -7582,7 +7594,10 @@
             "animationOption": "none",
             "type": "sectionHeader",
             "who": "kimman",
-            "optionalOption": null,
+            "optionalOption": {
+                
+                "checkPointToUnlock": "checkPoint_2_1_2"
+            },
             "characterFace": "angry1"
         },
         {
@@ -8502,7 +8517,10 @@
             "animationOption": "none",
             "type": "sectionHeader",
             "who": "danhee2",
-            "optionalOption": null,
+            "optionalOption": {
+                
+                "checkPointToUnlock": "checkPoint_2_1_3"
+            },
             "characterFace": "none"
         },
         {
@@ -12125,7 +12143,10 @@
             "type": "onlyText",
             "isGodChat": true,
             "who": "hwiryeong",
-            "optionalOption": null,
+            "optionalOption": {
+                
+                "checkPointToUnlock": "checkPoint_2_2_1"
+            },
             "characterFace": "angry3"
         },
         {
@@ -13330,7 +13351,10 @@
             "type": "onlyText",
             "isGodChat": true,
             "who": "hwiryeong",
-            "optionalOption": null,
+            "optionalOption": {
+                
+                "checkPointToUnlock": "checkPoint_2_2_2"
+            },
             "characterFace": "straight"
         },
         {
@@ -14309,7 +14333,10 @@
             "type": "onlyText",
         "isGodChat": true,
         "who": "danhee2",
-            "optionalOption": null,
+            "optionalOption": {
+                
+                "checkPointToUnlock": "checkPoint_2_2_3"
+            },
             "characterFace": "none"
         },
         {
