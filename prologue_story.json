@@ -8,7 +8,9 @@
                 "animationOption": "none",
                 "type": "ar",
                 "who": "danhee",
-                "optionalOption" : null,
+                "optionalOption" : {
+                    "arContent": "hidePocketInGround"
+                },
                 "characterFace": "none"
             },
             {
