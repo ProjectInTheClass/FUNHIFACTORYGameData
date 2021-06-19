@@ -107,7 +107,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": false,
+        "isGodChat": false,
         "backGroundMusic":"normal"
     },
     {
@@ -140,7 +140,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": false,
+        "isGodChat": false,
         "backGroundMusic":"normal"
     },
     {
@@ -182,7 +182,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": false,
+        "isGodChat": false,
         "backGroundMusic":"normal"
     },
     {
@@ -251,7 +251,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": false,
+        "isGodChat": false,
         "backGroundMusic":"normal"
     },
     {
@@ -309,7 +309,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": false,
+        "isGodChat": false,
         "backGroundMusic":"normal"
     },
     {
@@ -342,7 +342,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": false,
+        "isGodChat": false,
         "backGroundMusic":"normal"
     },
     {
@@ -401,7 +401,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": false,
+        "isGodChat": false,
         "backGroundMusic":"normal"
     },
     {
@@ -477,7 +477,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": false,
+        "isGodChat": false,
         "backGroundMusic":"normal"
     },
     {
@@ -519,7 +519,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": false,
+        "isGodChat": false,
         "backGroundMusic":"normal"
     },
     {
@@ -559,7 +559,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": false,
+        "isGodChat": false,
         "backGroundMusic":"normal"
     },
     {
@@ -601,7 +601,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": false,
+        "isGodChat": false,
         "backGroundMusic":"normal"
     },
     {
@@ -634,7 +634,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": false,
+        "isGodChat": false,
         "backGroundMusic":"normal"
     },
     {
@@ -667,7 +667,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": false,
+        "isGodChat": false,
         "backGroundMusic":"normal"
     },
     {
@@ -727,7 +727,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": false,
+        "isGodChat": false,
         "backGroundMusic":"normal"
     },
     {
@@ -820,7 +820,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": false,
+        "isGodChat": false,
         "backGroundMusic":"normal"
     },
     {
@@ -884,7 +884,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -944,7 +944,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -1038,7 +1038,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -1112,7 +1112,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -1156,7 +1156,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -1200,7 +1200,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -1264,7 +1264,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -1318,7 +1318,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -1402,7 +1402,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -1456,7 +1456,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -1520,7 +1520,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -1564,7 +1564,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -1598,7 +1598,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -1642,7 +1642,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -1686,7 +1686,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -1730,7 +1730,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -1814,7 +1814,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -1878,7 +1878,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -1912,7 +1912,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -1953,7 +1953,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -2027,7 +2027,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -2101,7 +2101,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -2185,7 +2185,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -2259,7 +2259,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -2313,7 +2313,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -2367,7 +2367,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -2411,7 +2411,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -2450,7 +2450,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -2564,7 +2564,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -2614,7 +2614,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -2668,7 +2668,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -2742,7 +2742,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -2806,7 +2806,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -2876,7 +2876,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -2983,7 +2983,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -3047,7 +3047,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -3091,7 +3091,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -3152,7 +3152,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -3236,7 +3236,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -3279,7 +3279,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -3342,7 +3342,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -3395,7 +3395,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -3458,7 +3458,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -3521,7 +3521,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -3594,7 +3594,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -3627,7 +3627,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -3668,7 +3668,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": false,
+        "isGodChat": false,
         "backGroundMusic":"normal"
     },
     {
@@ -3796,7 +3796,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": false,
+        "isGodChat": false,
         "backGroundMusic":"normal"
     },
     {
@@ -3849,7 +3849,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -3902,7 +3902,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -3965,7 +3965,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -4028,7 +4028,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -4101,7 +4101,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -4144,7 +4144,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -4177,7 +4177,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -4250,7 +4250,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -4283,7 +4283,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -4336,7 +4336,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -4409,7 +4409,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -4442,7 +4442,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -4515,7 +4515,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -4548,7 +4548,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -4621,7 +4621,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -4751,7 +4751,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -4804,7 +4804,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -4857,7 +4857,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -4900,7 +4900,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -4953,7 +4953,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -5016,7 +5016,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -5089,7 +5089,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -5142,7 +5142,7 @@
             }
         ],
         "choiceSkip": false,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -5215,7 +5215,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock": true,
+        "isGodChat": true,
         "backGroundMusic":"normal"
     },
     {
@@ -5268,7 +5268,7 @@
             }
         ],
         "choiceSkip": true,
-        "isGodStoryBlock" : true,
+        "isGodChat" : true,
         "backGroundMusic":"normal"
     }
 
