@@ -8829,6 +8829,17 @@
             "characterFace": "none"
         },
         {
+            "text": "AR.",
+            "image": "",
+            "animationOption": "none",
+            "type": "ar",
+            "who": "danhee",
+            "optionalOption" : {
+                "arContent": "hidePocketInGround"
+                },
+        "characterFace": "none"
+        },
+        {
             "text": "에잉. 구덩이가 많이 크네.",
             "image": "",
             "animationOption": "none",
