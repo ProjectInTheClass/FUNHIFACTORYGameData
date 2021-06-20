@@ -9054,7 +9054,7 @@
             "type": "ar",
             "who": "danhee",
             "optionalOption" : {
-                "arContent": "hidePockeBetweenRocks"
+                "arContent": "hidePocketBetweenRocks"
                 },
         "characterFace": "none"
         },
