@@ -286,14 +286,14 @@
             "chatType": "onlyText",
             "optionalOption": null,
             "characterFace": "happy1",
-            "nextTextIndex": "007"
+            "nextTextIndex": "008"
         },
         {
             "text": "",
             "chatType": "onlyText",
             "optionalOption": null,
             "characterFace": "basic",
-            "nextTextIndex": "07"
+            "nextTextIndex": "008"
         }
     ],
     "choiceSkip": true,
