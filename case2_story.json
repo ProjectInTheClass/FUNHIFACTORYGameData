@@ -7573,7 +7573,7 @@
             "characterFace": "none"
         },
         {
-            "text": "그럼 잔소리 말고 내일 가 거라.",
+            "text": "그럼 잔소리 말고 내일 가거라.",
             "image": "",
             "animationOption": "none",
             "type": "onlyText",
@@ -14501,7 +14501,7 @@
 {
     "id": "255",
     "chats": [{
-        "text": "그래. 그럼 가 거라.",
+        "text": "그래. 그럼 가거라.",
         "image": "",
         "animationOption": "fadeOut",
         "type": "onlyText",
