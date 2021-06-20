@@ -2642,7 +2642,7 @@
             "text": "휘령은 연기처럼 사라지고, 시간은 다시 녹는다.",
             "image": "",
             "animationOption": "none",
-            "type": "onlyText",
+            "type": "sectionHeader",
             "isGodChat": true,
             "who": "hwiryeong",
             "optionalOption": null,
@@ -2848,9 +2848,9 @@
             "text": "휘령은 연기처럼 사라지고, 시간은 다시 녹는다.",
             "image": "",
             "animationOption": "none",
-            "type": "onlyText",
-        "isGodChat": true,
-        "who": "danhee2",
+            "type": "sectionHeader",
+            "isGodChat": true,
+            "who": "danhee2",
             "optionalOption": null,
             "characterFace": "happy1"
         }
