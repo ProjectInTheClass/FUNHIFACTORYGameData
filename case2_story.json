@@ -11663,6 +11663,21 @@
             "who": "kimman",
             "optionalOption": null,
             "characterFace": "none"
+        },
+        {
+            "text": "휘령의 목걸이에서 작은 빛이 난다.",
+            "image": "",
+            "animationOption": "none",
+            "type": "sectionHeader",
+            "who": "kimman",
+            "optionalOption": {
+                "achievementToUnlock": "necklace_25",
+                "informationToUnlock": null,
+                "gameCharacterToUnlock": null,
+                "caseToUnlock": null,
+                "albumImageToUnlock": null
+            },
+            "characterFace": "none"
         }
     ],
     "choices": [{
