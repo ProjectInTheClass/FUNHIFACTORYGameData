@@ -259,7 +259,7 @@
         "id": "005",
         "chats": [
             {
-                "text": "나는 돈화문 안으로 들어갔다.",
+                "text": "돈화문 안으로 들어간다.",
                 "image": "",
                 "animationOption": "none",
                 "type": "sectionHeader",
@@ -317,10 +317,28 @@
         "id": "006",
         "chats": [
             {
+                "text": "그림 손 놓은지 오래됐지만..이 모습은 그리고 싶어.",
+                "image": "",
+                "animationOption": "none",
+                "type": "monologue",
+                "who": "danhee",
+                "optionalOption" : null,
+                "characterFace": "basic"
+            },
+            {
+                "text": ".....",
+                "image": "",
+                "animationOption": "none",
+                "type": "onlyText",
+                "who": "danhee",
+                "optionalOption" : null,
+                "characterFace": "none"
+            },
+            {
                 "text": "봄에 오면 더 좋을 것 같네.",
                 "image": "",
                 "animationOption": "none",
-                "type": "sectionHeader",
+                "type": "onlyText",
                 "who": "danhee",
                 "optionalOption" : null,
                 "characterFace": "happy2"
@@ -409,7 +427,7 @@
         "id": "008",
         "chats": [
             {
-                "text": "돌다리를 지나 앞으로 쭉 걸었는데 그곳에는 아무것도 없었다.",
+                "text": "돌다리를 지나 앞으로 쭉 걸었는데 그곳에는 아무것도 없다.",
                 "image": "",
                 "animationOption": "none",
                 "type": "sectionHeader",
@@ -653,14 +671,14 @@
         ],
         "choices": [
             {
-                "text": "뭐지? 확인해봐야겠다.",
+                "text": "뭐지? 누구세요..?",
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "surprise1",
                 "nextTextIndex": "016"
             },
             {
-                "text": "마저 하던 거부터 할래.",
+                "text": "뭐야? 마저 하던 거부터 할래.",
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
@@ -693,7 +711,7 @@
                 "characterFace": "none"
             },
             {
-                "text": "뭐야, 귀찮게.",
+                "text": "뭐야, 환청인가.",
                 "image": "",
                 "animationOption": "none",
                 "type": "sectionHeader",
@@ -713,7 +731,7 @@
         ],
         "choices": [
             {
-                "text": "도대체 뭔데 자꾸 울려!",
+                "text": "도대체 뭔데 자꾸 들리는 거야!",
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "angry1",
@@ -735,7 +753,7 @@
         "id": "015",
         "chats": [
             {
-                "text": "그림 그리는데 계속 방해되잖아.",
+                "text": "그림 그리는데 계속 방해되게.",
                 "image": "",
                 "animationOption": "none",
                 "type": "onlyText",
@@ -744,7 +762,7 @@
                 "characterFace": "angry1"
             },
             {
-                "text": "알림을 꺼놔야겠어.",
+                "text": "대체 무슨 소리인건지 모르겠네.",
                 "image": "",
                 "animationOption": "none",
                 "type": "onlyText",
@@ -889,7 +907,7 @@
         ],
         "choiceSkip": false,
         "isGodChat": true,
-        "backGroundMusic":"normal"
+        "backGroundMusic":"none"
     },
     {
         "id": "017",
@@ -949,7 +967,7 @@
         ],
         "choiceSkip": true,
         "isGodChat": true,
-        "backGroundMusic":"normal"
+        "backGroundMusic":"none"
     },
     {
         "id": "018",
@@ -1043,7 +1061,7 @@
         ],
         "choiceSkip": false,
         "isGodChat": true,
-        "backGroundMusic":"normal"
+        "backGroundMusic":"none"
     },
     {
         "id": "019",
@@ -1117,7 +1135,7 @@
         ],
         "choiceSkip": false,
         "isGodChat": true,
-        "backGroundMusic":"normal"
+        "backGroundMusic":"none"
     },
     {
         "id": "020",
@@ -1161,7 +1179,7 @@
         ],
         "choiceSkip": true,
         "isGodChat": true,
-        "backGroundMusic":"normal"
+        "backGroundMusic":"nervous1"
     },
     {
         "id": "021",
@@ -1205,7 +1223,7 @@
         ],
         "choiceSkip": true,
         "isGodChat": true,
-        "backGroundMusic":"normal"
+        "backGroundMusic":"nervous1"
     },
     {
         "id": "022",
@@ -1269,7 +1287,7 @@
         ],
         "choiceSkip": false,
         "isGodChat": true,
-        "backGroundMusic":"normal"
+        "backGroundMusic":"nervous1"
     },
     {
         "id": "023",
@@ -1323,7 +1341,7 @@
         ],
         "choiceSkip": true,
         "isGodChat": true,
-        "backGroundMusic":"normal"
+        "backGroundMusic":"nervous1"
     },
     {
         "id": "024",
@@ -1407,7 +1425,7 @@
         ],
         "choiceSkip": true,
         "isGodChat": true,
-        "backGroundMusic":"normal"
+        "backGroundMusic":"nervous1"
     },
     {
         "id": "025",
@@ -1531,7 +1549,7 @@
         "id": "027",
         "chats": [
             {
-                "text": "나는 잠시 뜸을 들였다.",
+                "text": "나는 잠시 뜸을 들인다.",
                 "image": "",
                 "animationOption": "none",
                 "type": "sectionHeader",
@@ -1647,7 +1665,7 @@
         ],
         "choiceSkip": true,
         "isGodChat": true,
-        "backGroundMusic":"normal"
+        "backGroundMusic":"nervous1"
     },
     {
         "id": "030",
@@ -1691,7 +1709,7 @@
         ],
         "choiceSkip": true,
         "isGodChat": true,
-        "backGroundMusic":"normal"
+        "backGroundMusic":"nervous1"
     },
     {
         "id": "031",
@@ -1735,7 +1753,7 @@
         ],
         "choiceSkip": false,
         "isGodChat": true,
-        "backGroundMusic":"normal"
+        "backGroundMusic":"nervous1"
     },
     {
         "id": "032",
@@ -1798,7 +1816,7 @@
                 "isGodChat": true,
                 "who": "hwiryeong",
                 "optionalOption" : null,
-                "characterFace": "none"
+                "characterFace": "nervous1"
             }
         ],
         "choices": [
@@ -1819,7 +1837,7 @@
         ],
         "choiceSkip": false,
         "isGodChat": true,
-        "backGroundMusic":"normal"
+        "backGroundMusic":"nervous1"
     },
     {
         "id": "033",
@@ -1883,7 +1901,7 @@
         ],
         "choiceSkip": false,
         "isGodChat": true,
-        "backGroundMusic":"normal"
+        "backGroundMusic":"nervous1"
     },
     {
         "id": "034",
@@ -1917,7 +1935,7 @@
         ],
         "choiceSkip": true,
         "isGodChat": true,
-        "backGroundMusic":"normal"
+        "backGroundMusic":"nervous1"
     },
     {
         "id": "035",
@@ -1958,7 +1976,7 @@
         ],
         "choiceSkip": false,
         "isGodChat": true,
-        "backGroundMusic":"normal"
+        "backGroundMusic":"nervous1"
     },
     {
         "id": "036",
@@ -2032,7 +2050,7 @@
         ],
         "choiceSkip": false,
         "isGodChat": true,
-        "backGroundMusic":"normal"
+        "backGroundMusic":"nervous1"
     },
     {
         "id": "037",
@@ -2106,7 +2124,7 @@
         ],
         "choiceSkip": false,
         "isGodChat": true,
-        "backGroundMusic":"normal"
+        "backGroundMusic":"nervous1"
     },
     {
         "id": "038",
@@ -2190,7 +2208,7 @@
         ],
         "choiceSkip": false,
         "isGodChat": true,
-        "backGroundMusic":"normal"
+        "backGroundMusic":"nervous1"
     },
     {
         "id": "039",
@@ -2264,7 +2282,7 @@
         ],
         "choiceSkip": false,
         "isGodChat": true,
-        "backGroundMusic":"normal"
+        "backGroundMusic":"nervous1"
     },
     {
         "id": "040",
@@ -2318,7 +2336,7 @@
         ],
         "choiceSkip": true,
         "isGodChat": true,
-        "backGroundMusic":"normal"
+        "backGroundMusic":"nervous1"
     },
     {
         "id": "041",
@@ -2372,7 +2390,7 @@
         ],
         "choiceSkip": true,
         "isGodChat": true,
-        "backGroundMusic":"normal"
+        "backGroundMusic":"nervous1"
     },
     {
         "id": "042",
@@ -2504,7 +2522,7 @@
                 "characterFace": "none"
             },
             {
-                "text": "나를 쳐다보는 휘령의 눈빛은 슬펐지만 입가에는 아주 옅은 미소가 띄워져 있었다.",
+                "text": "나를 쳐다보는 휘령의 눈빛은 슬펐지만 입가에는 아주 옅은 미소가 띄워져 있는 듯 하다.",
                 "image": "",
                 "animationOption": "none",
                 "type": "sectionHeader",
@@ -2544,7 +2562,7 @@
                 "characterFace": "basic"
             },
             {
-                "text": "나는 흐르는 눈물을 닦았다.",
+                "text": "나는 흐르는 눈물을 닦는다.",
                 "image": "",
                 "animationOption": "none",
                 "type": "sectionHeader",
