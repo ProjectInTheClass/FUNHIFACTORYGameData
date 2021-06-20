@@ -3,17 +3,6 @@
         "id": "001",
         "chats": [
             {
-                "text": "AR.",
-                "image": "",
-                "animationOption": "none",
-                "type": "ar",
-                "who": "danhee",
-                "optionalOption" : {
-                    "arContent": "hidePocketInGround"
-                },
-                "characterFace": "none"
-            },
-            {
                 
                 "image": "donhwamun_with_danhee",
                 "animationOption": "none",
