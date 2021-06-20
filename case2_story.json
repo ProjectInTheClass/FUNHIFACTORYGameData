@@ -8751,6 +8751,17 @@
             "characterFace": "none"
         },
         {
+            "text": "AR.",
+            "image": "",
+            "animationOption": "none",
+            "type": "ar",
+            "who": "danhee",
+            "optionalOption" : {
+                "arContent": "hidePocketInGround"
+                },
+        "characterFace": "none"
+        },
+        {
             "text": "오! 딱 맞네.",
             "image": "",
             "animationOption": "none",
@@ -9026,6 +9037,17 @@
             "characterFace": "none"
         },
         {
+            "text": "AR.",
+            "image": "",
+            "animationOption": "none",
+            "type": "ar",
+            "who": "danhee",
+            "optionalOption" : {
+                "arContent": "hidePockeBetweenRocks"
+                },
+        "characterFace": "none"
+        },
+        {
             "text": "음...이 정도면 됐어.",
             "image": "",
             "animationOption": "none",
@@ -9064,6 +9086,17 @@
             "who": "danhee2",
             "optionalOption": null,
             "characterFace": "none"
+        },
+        {
+            "text": "AR.",
+            "image": "",
+            "animationOption": "none",
+            "type": "ar",
+            "who": "danhee",
+            "optionalOption" : {
+                "arContent": "hidePockeBetweenRocks"
+                },
+        "characterFace": "none"
         },
         {
             "text": "음...이 정도면 됐어.",
