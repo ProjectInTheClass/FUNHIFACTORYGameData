@@ -1680,7 +1680,7 @@
             "animationOption": "none",
             "type": "onlyText",
         "isGodChat": true,
-        "who": "danhee2",
+        "who": "danhee",
             "optionalOption": null,
             "characterFace": "none"
         }
@@ -2213,7 +2213,13 @@
             "animationOption": "none",
             "type": "sectionHeader",
             "who": "hwiryeong",
-            "optionalOption": null,
+            "optionalOption": {
+                "achievementToUnlock": null,
+                "informationToUnlock": null,
+                "gameCharacterToUnlock": "danhee2",
+                "caseToUnlock": null,
+                "albumImageToUnlock": null
+            },
             "characterFace": "straight"
         },
         {
@@ -2295,7 +2301,13 @@
             "animationOption": "none",
             "type": "onlyText",
             "who": "extra1",
-            "optionalOption": null,
+            "optionalOption": {
+                "achievementToUnlock": null,
+                "informationToUnlock": null,
+                "gameCharacterToUnlock": "extra1",
+                "caseToUnlock": null,
+                "albumImageToUnlock": null
+            },
             "characterFace": "basic"
         },
         {
@@ -2304,7 +2316,13 @@
             "animationOption": "none",
             "type": "onlyText",
             "who": "extra2",
-            "optionalOption": null,
+            "optionalOption": {
+                "achievementToUnlock": null,
+                "informationToUnlock": null,
+                "gameCharacterToUnlock": "extra2",
+                "caseToUnlock": null,
+                "albumImageToUnlock": null
+            },
             "characterFace": "basic"
         },
         {
@@ -2322,7 +2340,13 @@
             "animationOption": "none",
             "type": "onlyText",
             "who": "extra3",
-            "optionalOption": null,
+            "optionalOption": {
+                "achievementToUnlock": null,
+                "informationToUnlock": null,
+                "gameCharacterToUnlock": "extra3",
+                "caseToUnlock": null,
+                "albumImageToUnlock": null
+            },
             "characterFace": "basic"
         },
         {
@@ -11531,8 +11555,14 @@
             "image": "",
             "animationOption": "none",
             "type": "onlyText",
-            "who": "extra1",
-            "optionalOption": null,
+            "who": "extra4",
+            "optionalOption": {
+                "achievementToUnlock": null,
+                "informationToUnlock": null,
+                "gameCharacterToUnlock": "extra4",
+                "caseToUnlock": null,
+                "albumImageToUnlock": null
+            },
             "characterFace": "basic"
         },
         {
@@ -11549,7 +11579,7 @@
             "image": "",
             "animationOption": "none",
             "type": "onlyText",
-            "who": "extra1",
+            "who": "extra4",
             "optionalOption": null,
             "characterFace": "basic"
         },
@@ -11558,7 +11588,7 @@
             "image": "",
             "animationOption": "none",
             "type": "onlyText",
-            "who": "extra1",
+            "who": "extra4",
             "optionalOption": null,
             "characterFace": "none"
         },
@@ -11594,7 +11624,7 @@
             "image": "",
             "animationOption": "none",
             "type": "onlyText",
-            "who": "extra1",
+            "who": "extra4",
             "optionalOption": null,
             "characterFace": "basic"
         },
@@ -13787,7 +13817,7 @@
             "image": "",
             "animationOption": "none",
             "type": "onlyText",
-            "who": "extra1",
+            "who": "injo",
             "optionalOption": null,
             "characterFace": "basic"
         },
