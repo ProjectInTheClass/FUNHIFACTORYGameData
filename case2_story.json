@@ -1793,7 +1793,7 @@
             "nextTextIndex": "039"
         }
     ],
-    "choiceSkip": false,
+    "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "none"
 },
@@ -1905,7 +1905,7 @@
             "text": "나에게 과연..볼 수 있는 기회가 올까?",
             "image": "",
             "animationOption": "none",
-            "type": "onlyText",
+            "type": "monologue",
             "isGodChat": true,
             "who": "danhee",
             "optionalOption": null,
@@ -3755,7 +3755,7 @@
             "image": "",
             "animationOption": "none",
             "type": "onlyText",
-            "who": "danhee2",
+            "who": "kimman",
             "optionalOption": null,
             "characterFace": "basictalk"
         }
@@ -4464,8 +4464,8 @@
             "image": "",
             "animationOption": "none",
             "type": "onlyText",
-        "isGodChat": true,
-        "who": "danhee2",
+            "isGodChat": true,
+            "who": "hwiryeong",
             "optionalOption": null,
             "characterFace": "none"
         }
@@ -4793,7 +4793,7 @@
             "animationOption": "none",
             "type": "onlyText",
             "isGodChat": true,
-            "who": "hwiryeong",
+            "who": "danhee2",
             "optionalOption": null,
             "characterFace": "basic"
         },
@@ -4840,7 +4840,7 @@
             "characterFace": "basic"
         },
         {
-            "text": "아까 김자점이 2경이 만나기로 했다고 하던데",
+            "text": "아까 김자점이 2경에 만나기로 했다고 하던데",
             "image": "",
             "animationOption": "none",
             "type": "onlyText",
