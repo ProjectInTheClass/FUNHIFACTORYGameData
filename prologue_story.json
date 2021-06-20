@@ -990,7 +990,7 @@
                 "isGodChat": true,
                 "who": "hwiryeong",
                 "optionalOption" : null,
-                "characterFace": "scared"
+                "characterFace": "straight"
             },
             {
                 "text": "넌 너의 핏줄이 무색하게도 버릇이 없구나.",
@@ -1000,7 +1000,7 @@
                 "isGodChat": true,
                 "who": "hwiryeong",
                 "optionalOption" : null,
-                "characterFace": "straight"
+                "characterFace": "none"
             },
             {
                 "text": "아..아니 누군데 그러시냐고요.",
@@ -1948,7 +1948,7 @@
                 "isGodChat": true,
                 "who": "hwiryeong",
                 "optionalOption" : null,
-                "characterFace": "scared"
+                "characterFace": "upset"
             }
         ],
         "choices": [
@@ -4183,7 +4183,7 @@
                 "isGodChat": true,
                 "who": "hwiryeong",
                 "optionalOption" : null,
-                "characterFace": "scared"
+                "characterFace": "basictalk"
             }        ],
         "choices": [
             {
@@ -4322,7 +4322,7 @@
                 "isGodChat": true,
                 "who": "hwiryeong",
                 "optionalOption" : null,
-                "characterFace": "scared"
+                "characterFace": "suprise1"
             },
             {
                 "text": "아무튼 그래서 네 영혼만 과거로 가서 그 시대 사람에게 빙의할 거다.",
@@ -4332,7 +4332,7 @@
                 "isGodChat": true,
                 "who": "hwiryeong",
                 "optionalOption" : null,
-                "characterFace": "none"
+                "characterFace": "basic"
             },
             {
                 "text": "준비 됐니?",
@@ -4342,7 +4342,7 @@
                 "isGodChat": true,
                 "who": "hwiryeong",
                 "optionalOption" : null,
-                "characterFace": "basic"
+                "characterFace": "none"
             }        ],
         "choices": [
             {
