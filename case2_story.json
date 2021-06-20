@@ -352,7 +352,7 @@
             "chatType": "onlyText",
             "optionalOption": null,
             "characterFace": "basictalk",
-            "nextTextIndex": "00"
+            "nextTextIndex": "009"
         }
     ],
     "choiceSkip": false,
