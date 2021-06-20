@@ -2983,8 +2983,8 @@
             "image": "",
             "animationOption": "none",
             "type": "sectionHeader",
-        "isGodChat": true,
-        "who": "danhee2",
+            "isGodChat": true,
+            "who": "danhee2",
             "optionalOption": null,
             "characterFace": "sad"
         }
@@ -10053,7 +10053,7 @@
         "text": "정말 죄송합니다 대감마님...",
         "image": "",
         "animationOption": "none",
-        "type": "monologue",
+        "type": "onlyText",
         "who": "danhee2",
         "optionalOption": null,
         "characterFace": "none"
