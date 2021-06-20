@@ -12326,14 +12326,14 @@
             "chatType": "onlyText",
             "optionalOption": null,
             "characterFace": "none",
-            "nextTextIndex": "221"
+            "nextTextIndex": "222"
         },
         {
             "text": "당황해서 그랬어요..",
             "chatType": "onlyText",
             "optionalOption": null,
             "characterFace": "none",
-            "nextTextIndex": "221"
+            "nextTextIndex": "222"
         }
     ],
     "choiceSkip": false,
@@ -14390,7 +14390,7 @@
         "image": "",
         "animationOption": "none",
         "type": "onlyText",
-        "who": "danhee2",
+        "who": "hwiryeong",
         "optionalOption": null,
         "characterFace": "cry1"
     }],
