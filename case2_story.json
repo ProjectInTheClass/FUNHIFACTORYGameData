@@ -5485,7 +5485,7 @@
             "chatType": "onlyText",
             "optionalOption": null,
             "characterFace": "sad",
-            "nextTextIndex": "097"
+            "nextTextIndex": "261"
         }
     ],
     "choiceSkip": false,
@@ -5493,7 +5493,7 @@
     "backGroundMusic": "none"
 },
 {
-    "id": "097",
+    "id": "261",
     "chats": [{
             "text": "밑에서 누가 걸어오는게 보인다.",
             "image": "",
