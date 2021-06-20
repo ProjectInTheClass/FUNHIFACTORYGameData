@@ -4675,7 +4675,7 @@
         }
     ],
     "choices": [{
-            "text": "어 정도..되는 것 같아요.",
+            "text": "어느 정도는..되는 것 같아요.",
             "chatType": "onlyText",
             "optionalOption": null,
             "characterFace": "scared",
