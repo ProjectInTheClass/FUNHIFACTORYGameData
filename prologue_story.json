@@ -199,7 +199,7 @@
                 "characterFace": "basic"
             },
             {
-                "text": "창덕궁은 애석하게도 이 돈화문을 제외한 나머지 건물들은 모두 없어요.",
+                "text": "창덕궁은 슬프게도 이 돈화문을 제외한 나머지 건물들은 모두 없어요.",
                 "image": "",
                 "animationOption": "none",
                 "type": "onlyText",
@@ -608,14 +608,14 @@
                 "text": "슬슬 돌아가봐야겠어.",
                 "chatType" : "onlyText",
                 "optionalOption" : null,
-                "characterFace" : "basic",
+                "characterFace" : "none",
                 "nextTextIndex": "013"
             },
             {
                 "text": "다시 돌아가기도 귀찮네.",
                 "chatType" : "onlyText",
                 "optionalOption" : null,
-                "characterFace" : "basic",
+                "characterFace" : "none",
                 "nextTextIndex": "012"
             }
         ],
@@ -714,7 +714,7 @@
                 "text": "뭐야, 환청인가.",
                 "image": "",
                 "animationOption": "none",
-                "type": "sectionHeader",
+                "type": "onlyText",
                 "who": "danhee",
                 "optionalOption" : null,
                 "characterFace": "straight"
