@@ -560,7 +560,7 @@
         }
     ],
     "choiceSkip": true,
-    "isGodChat": false,
+    "isGodChat": true,
     "backGroundMusic": "none"
 },
 {
@@ -879,14 +879,14 @@
     ],
     "choices": [{
             "text": "현장체험학습 모인 장소인가?",
-            "chatType": "onlyText",
+            "chatType": "monologue",
             "optionalOption": null,
             "characterFace": "none",
             "nextTextIndex": "020"
         },
         {
             "text": "창덕궁 정문을 말하는 건가?",
-            "chatType": "onlyText",
+            "chatType": "monologue",
             "optionalOption": null,
             "characterFace": "none",
             "nextTextIndex": "020"
@@ -1190,7 +1190,7 @@
 {
     "id": "026",
     "chats": [{
-            "text": "음..아니.",
+            "text": "음.. 아니.",
             "image": "",
             "animationOption": "none",
             "type": "onlyText",
