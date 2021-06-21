@@ -470,7 +470,7 @@
                 "characterFace": "surprise1"
             },
             {
-                "text": "예전에는 어떻게 생겼을 지 궁금하다.",
+                "text": "예전에는 어떻게 생겼을지 궁금하다.",
                 "image": "",
                 "animationOption": "none",
                 "type": "onlyText",
@@ -2820,7 +2820,7 @@
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
-                "nextTextIndex": "047"
+                "nextTextIndex": "064"
             },
             {
                 "text": "",
@@ -3250,7 +3250,7 @@
                 "chatType" : "onlyText",
                 "optionalOption" : null,
                 "characterFace" : "basic",
-                "nextTextIndex": "046"
+                "nextTextIndex": "064"
             },
             {
                 "text": "",
