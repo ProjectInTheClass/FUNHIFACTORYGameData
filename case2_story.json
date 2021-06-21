@@ -189,7 +189,7 @@
 {
     "id": "006",
     "chats": [{
-            "text": "모를 수 있지",
+            "text": "모를 수 있지.",
             "image": "",
             "animationOption": "none",
             "type": "onlyText",
@@ -559,7 +559,7 @@
             "nextTextIndex": "014"
         }
     ],
-    "choiceSkip": true,
+    "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "none"
 },
@@ -2432,14 +2432,14 @@
             "text": "휘령님께 물어봐야겠다.",
             "chatType": "onlyText",
             "optionalOption": null,
-            "characterFace": "basic",
+            "characterFace": "none",
             "nextTextIndex": "048"
         },
         {
             "text": "조금 더 지켜보자.",
             "chatType": "onlyText",
             "optionalOption": null,
-            "characterFace": "basic",
+            "characterFace": "none",
             "nextTextIndex": "057"
         }
     ],
@@ -4467,7 +4467,7 @@
             "isGodChat": true,
             "who": "hwiryeong",
             "optionalOption": null,
-            "characterFace": "none"
+            "characterFace": "basic"
         }
     ],
     "choices": [{
@@ -13647,7 +13647,7 @@
             "chatType": "onlyText",
             "optionalOption": null,
             "characterFace": "sad",
-            "nextTextIndex": "243"
+            "nextTextIndex": "242"
         },
         {
             "text": "...예.",
