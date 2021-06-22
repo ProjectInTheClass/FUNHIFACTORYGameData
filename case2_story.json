@@ -2300,13 +2300,7 @@
             "animationOption": "none",
             "type": "onlyText",
             "who": "extra1",
-            "optionalOption": {
-                "achievementToUnlock": null,
-                "informationToUnlock": null,
-                "gameCharacterToUnlock": "extra1",
-                "caseToUnlock": null,
-                "albumImageToUnlock": null
-            },
+            "optionalOption": null,
             "characterFace": "basic"
         },
         {
@@ -2315,13 +2309,7 @@
             "animationOption": "none",
             "type": "onlyText",
             "who": "extra2",
-            "optionalOption": {
-                "achievementToUnlock": null,
-                "informationToUnlock": null,
-                "gameCharacterToUnlock": "extra2",
-                "caseToUnlock": null,
-                "albumImageToUnlock": null
-            },
+            "optionalOption": null,
             "characterFace": "basic"
         },
         {
@@ -2339,13 +2327,7 @@
             "animationOption": "none",
             "type": "onlyText",
             "who": "extra3",
-            "optionalOption": {
-                "achievementToUnlock": null,
-                "informationToUnlock": null,
-                "gameCharacterToUnlock": "extra3",
-                "caseToUnlock": null,
-                "albumImageToUnlock": null
-            },
+            "optionalOption": null,
             "characterFace": "basic"
         },
         {
@@ -11556,13 +11538,7 @@
             "animationOption": "none",
             "type": "onlyText",
             "who": "extra4",
-            "optionalOption": {
-                "achievementToUnlock": null,
-                "informationToUnlock": null,
-                "gameCharacterToUnlock": "extra4",
-                "caseToUnlock": null,
-                "albumImageToUnlock": null
-            },
+            "optionalOption": null,
             "characterFace": "basic"
         },
         {
