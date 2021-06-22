@@ -2994,14 +2994,14 @@
         "choices": [
             {
                 "text": "내 이야기를 해볼까..",
-                "chatType" : "onlyText",
+                "chatType" : "monologue",
                 "optionalOption" : null,
                 "characterFace" : "basic",
                 "nextTextIndex": "051"
             },
             {
                 "text": "내 이야기는 하지 말자.",
-                "chatType" : "onlyText",
+                "chatType" : "monologue",
                 "optionalOption" : null,
                 "characterFace" : "straight",
                 "nextTextIndex": "052"
@@ -3163,14 +3163,14 @@
         "choices": [
             {
                 "text": "내 이야기를 해볼까..",
-                "chatType" : "onlyText",
+                "chatType" : "monologue",
                 "optionalOption" : null,
                 "characterFace" : "basic",
                 "nextTextIndex": "054"
             },
             {
                 "text": "내 이야기는 하지 말자.",
-                "chatType" : "onlyText",
+                "chatType" : "monologue",
                 "optionalOption" : null,
                 "characterFace" : "straight",
                 "nextTextIndex": "055"
