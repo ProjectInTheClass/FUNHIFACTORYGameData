@@ -3095,7 +3095,7 @@
             "type": "onlyText",
             "who": "kimman",
             "optionalOption": null,
-            "characterFace": "angry"
+            "characterFace": "angry1"
         }
     ],
     "choices": [{
@@ -3144,7 +3144,7 @@
             "type": "onlyText",
             "who": "kimman",
             "optionalOption": null,
-            "characterFace": "angry"
+            "characterFace": "angry1"
         },
         {
             "text": "따라 나오라는 말 못 들었느냐?",
@@ -3605,7 +3605,7 @@
             "type": "onlyText",
             "who": "kimman",
             "optionalOption": null,
-            "characterFace": "angry"
+            "characterFace": "angry1"
         },
         {
             "text": "얼른 따라 나오기나 하거라.",
@@ -3788,7 +3788,7 @@
             "type": "onlyText",
             "who": "kimman",
             "optionalOption": null,
-            "characterFace": "angry"
+            "characterFace": "angry1"
         },
         {
             "text": "얼른 오라 해도!",
@@ -3869,7 +3869,7 @@
             "type": "onlyText",
             "who": "kimman",
             "optionalOption": null,
-            "characterFace": "angry"
+            "characterFace": "angry1"
         },
         {
             "text": "예, 알겠습니다.",
@@ -3985,7 +3985,7 @@
             "type": "onlyText",
             "who": "kimman",
             "optionalOption": null,
-            "characterFace": "angry"
+            "characterFace": "angry1"
         },
         {
             "text": "내가 지난 번에도 설명을 해주었거늘. 쯧.",
@@ -6669,7 +6669,7 @@
             "text": "아이..잔말 말고 그냥 좀 주쇼!!",
             "chatType": "onlyText",
             "optionalOption": null,
-            "characterFace": "angry",
+            "characterFace": "angry1",
             "nextTextIndex": "122"
         },
         {
@@ -6829,7 +6829,7 @@
             "type": "onlyText",
             "who": "kimwoman",
             "optionalOption": null,
-            "characterFace": "angry"
+            "characterFace": "angry1"
         },
         {
             "text": "진짜 미안해요!!!",
@@ -6950,7 +6950,7 @@
             "type": "onlyText",
             "who": "kimwoman",
             "optionalOption": null,
-            "characterFace": "angry"
+            "characterFace": "angry1"
         },
         {
             "text": "미안합니다!!!",
@@ -8554,7 +8554,7 @@
             "type": "onlyText",
             "who": "kimman",
             "optionalOption": null,
-            "characterFace": "angry"
+            "characterFace": "angry1"
         },
         {
             "text": "주고 오길 바란다.",
@@ -9809,14 +9809,14 @@
             "text": "대감마님..어떡합니까?",
             "chatType": "onlyText",
             "optionalOption": null,
-            "characterFace": "sad1",
+            "characterFace": "sad",
             "nextTextIndex": "175"
         },
         {
             "text": "대감마님..죄송합니다.",
             "chatType": "onlyText",
             "optionalOption": null,
-            "characterFace": "sad1",
+            "characterFace": "sad",
             "nextTextIndex": "178"
         }
     ],
@@ -9839,14 +9839,14 @@
             "text": "가다가 도적을 만나 그만 뺏기고 말았습니다..",
             "chatType": "onlyText",
             "optionalOption": null,
-            "characterFace": "sad1",
+            "characterFace": "sad",
             "nextTextIndex": "176"
         },
         {
             "text": "발을 헛디뎌 언덕에서 굴렀는데...",
             "chatType": "onlyText",
             "optionalOption": null,
-            "characterFace": "sad1",
+            "characterFace": "sad",
             "nextTextIndex": "177"
         }
     ],
@@ -9863,7 +9863,7 @@
             "type": "onlyText",
             "who": "kimman",
             "optionalOption": null,
-            "characterFace": "angry"
+            "characterFace": "angry1"
         },
         {
             "text": "죄송합니다...",
@@ -9872,7 +9872,7 @@
             "type": "onlyText",
             "who": "danhee2",
             "optionalOption": null,
-            "characterFace": "sad1"
+            "characterFace": "sad"
         },
         {
             "text": "아니...도저히 이해할 수가 없구나.",
@@ -9881,7 +9881,7 @@
             "type": "onlyText",
             "who": "kimman",
             "optionalOption": null,
-            "characterFace": "angry"
+            "characterFace": "angry1"
         },
         {
             "text": "병사가 되어서 겨우 도적한테 지는 게냐??!",
@@ -9930,7 +9930,7 @@
             "type": "onlyText",
             "who": "danhee2",
             "optionalOption": null,
-            "characterFace": "sad1"
+            "characterFace": "sad"
         }
     ],
     "choices": [{
@@ -10128,7 +10128,7 @@
             "type": "onlyText",
             "who": "danhee2",
             "optionalOption": null,
-            "characterFace": "sad1"
+            "characterFace": "sad"
         }
     ],
     "choices": [{
@@ -10454,7 +10454,7 @@
             "type": "onlyText",
             "who": "danhee2",
             "optionalOption": null,
-            "characterFace": "sad1"
+            "characterFace": "sad"
         }
     ],
     "choices": [{
@@ -10485,7 +10485,7 @@
             "type": "onlyText",
             "who": "danhee2",
             "optionalOption": null,
-            "characterFace": "sad1"
+            "characterFace": "sad"
         },
         {
             "text": "뭐시라?!!?",
@@ -10535,7 +10535,7 @@
             "text": "여러 명이서 덤비는 바람에..",
             "chatType": "onlyText",
             "optionalOption": null,
-            "characterFace": "sad1",
+            "characterFace": "sad",
             "nextTextIndex": "192"
         }
     ],
@@ -10582,7 +10582,7 @@
         "type": "onlyText",
         "who": "danhee2",
         "optionalOption": null,
-        "characterFace": "sad1"
+        "characterFace": "sad"
     }],
     "choices": [{
             "text": "",
@@ -11138,7 +11138,7 @@
             "type": "onlyText",
             "who": "kimman",
             "optionalOption": null,
-            "characterFace": "angry"
+            "characterFace": "angry1"
         },
         {
             "text": "이런 간단한 일을 맡겨도 제대로 해 오질 않으니.",
@@ -11147,7 +11147,7 @@
             "type": "onlyText",
             "who": "kimman",
             "optionalOption": null,
-            "characterFace": "angry"
+            "characterFace": "angry1"
         }
     ],
     "choices": [{
@@ -11599,7 +11599,7 @@
             "type": "onlyText",
             "who": "kimman",
             "optionalOption": null,
-            "characterFace": "angry"
+            "characterFace": "angry1"
         },
         {
             "text": "놓으란 말 안 들리는가?!",
@@ -11886,7 +11886,7 @@
         "isGodChat": true,
         "who": "danhee2",
             "optionalOption": null,
-            "characterFace": "sad1"
+            "characterFace": "sad"
         }
     ],
     "choices": [{
