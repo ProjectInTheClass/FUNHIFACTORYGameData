@@ -2199,8 +2199,7 @@
             "image": "",
             "animationOption": "none",
             "type": "sectionHeader",
-        "isGodChat": true,
-        "who": "danhee2",
+            "who": "danhee2",
             "optionalOption": {
                 
                 "checkPointToUnlock": "checkPoint_2_0_2"
@@ -2464,6 +2463,7 @@
             "image": "",
             "animationOption": "none",
             "type": "sectionHeader",
+            "isGodChat": true,
             "who": "hwiryeong",
             "optionalOption": null,
             "characterFace": "happy2"
@@ -3502,7 +3502,7 @@
         "image": "",
         "animationOption": "none",
         "type": "monologue",
-        "isGodChat": true,
+        "isGodChat": false,
         "who": "hwiryeong",
         "optionalOption": null,
         "characterFace": "happy1"
