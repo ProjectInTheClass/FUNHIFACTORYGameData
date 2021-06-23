@@ -5578,7 +5578,7 @@
             "chatType": "onlyText",
             "optionalOption": null,
             "characterFace": "none",
-            "nextTextIndex": "097"
+            "nextTextIndex": "106"
         },
         {
             "text": "2경..2니까 해가 뜬 아침이려나?",
@@ -8171,7 +8171,7 @@
             "characterFace": "happy1"
         },
         {
-            "text": "잠이 솔솔 오는 구만.",
+            "text": "잠이 솔솔 오는구먼.",
             "image": "",
             "animationOption": "none",
             "type": "onlyText",
@@ -8628,7 +8628,7 @@
 {
     "id": "151",
     "chats": [{
-            "text": "좀만 밖에서 버티다가 들어가야지",
+            "text": "좀만 밖에서 버티다가 들어가야지.",
             "image": "",
             "animationOption": "none",
             "type": "monologue",
