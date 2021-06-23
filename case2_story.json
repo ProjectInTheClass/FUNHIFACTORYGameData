@@ -4113,11 +4113,11 @@
             "characterFace": "basic"
         },
         {
-            "text": "이번엔 까 먹지 말고 잘 들어라.",
+            "text": "이번엔 까먹지 말고 잘 들어라.",
             "image": "",
             "animationOption": "none",
             "type": "onlyText",
-            "who": "kiman",
+            "who": "kimman",
             "optionalOption": null,
             "characterFace": "basictalk"
         }
@@ -4232,7 +4232,7 @@
         }
     ],
     "choiceSkip": false,
-    "isGodChat": true,
+    "isGodChat": false,
     "backGroundMusic": "nervous1"
 },
 {
