@@ -1019,7 +1019,13 @@
                 "type": "onlyText",
                 "isGodChat": true,
                 "who": "hwiryeong",
-                "optionalOption" : null,
+                "optionalOption" : {
+                    "achievementToUnlock": null,
+                    "informationToUnlock": null,
+                    "gameCharacterToUnlock": "hwiryeong",
+                    "caseToUnlock": null,
+                    "albumImageToUnlock": null
+                },
                 "characterFace": "straight"
             },
             {
