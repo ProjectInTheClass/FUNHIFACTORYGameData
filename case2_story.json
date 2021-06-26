@@ -12984,6 +12984,7 @@
         "text": "다시 현실로 가야하긴 하니까..",
         "image": "",
         "animationOption": "none",
+        "isGodChat": true,
         "type": "monologue",
         "who": "danhee2",
         "optionalOption": null,
