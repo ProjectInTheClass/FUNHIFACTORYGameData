@@ -14430,6 +14430,7 @@
         "animationOption": "none",
         "type": "onlyText",
         "who": "hwiryeong",
+        "isGodChat": true,
         "optionalOption": null,
         "characterFace": "cry1"
     }],
