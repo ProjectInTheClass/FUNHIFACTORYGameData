@@ -4605,7 +4605,7 @@
                 "animationOption": "none",
                 "type": "onlyText",
                 "isGodChat": true,
-                "who": "hwiryeong",
+                "who": "danhee",
                 "optionalOption" : null,
                 "characterFace": "none"
             },
@@ -4615,9 +4615,9 @@
                 "animationOption": "none",
                 "type": "onlyText",
                 "isGodChat": true,
-                "who": "hwiryeong",
+                "who": "danhee",
                 "optionalOption" : null,
-                "characterFace": "basic"
+                "characterFace": "none"
             },
             {
                 "text": "알겠다.",

@@ -3807,14 +3807,14 @@
     ],
     "choices": [{
             "text": "나를 부르는 건가?",
-            "chatType": "onlyText",
+            "chatType": "monologue",
             "optionalOption": null,
             "characterFace": "basic",
             "nextTextIndex": "071"
         },
         {
             "text": "누구를 부르는 거지?",
-            "chatType": "onlyText",
+            "chatType": "monologue",
             "optionalOption": null,
             "characterFace": "basic",
             "nextTextIndex": "071"
