@@ -7767,7 +7767,7 @@
             "text": "나는 터벅터벅 언덕을 오른다.",
             "image": "",
             "animationOption": "none",
-            "type": "onlyText",
+            "type": "sectionHeader",
             "who": "kimman",
             "optionalOption": null,
             "characterFace": "basic"
@@ -8252,7 +8252,7 @@
             "characterFace": "happy1"
         },
         {
-            "text": "이만 내려가자.",
+            "text": "이만 가자.",
             "image": "",
             "animationOption": "none",
             "type": "onlyText",
@@ -8261,7 +8261,7 @@
             "characterFace": "basictalk"
         },
         {
-            "text": "나는 언덕을 내려갔다.",
+            "text": "나는 주막을 떠났다.",
             "image": "",
             "animationOption": "none",
             "type": "sectionHeader",
@@ -9370,14 +9370,14 @@
             "chatType": "sectionHeader",
             "optionalOption": null,
             "characterFace": "none",
-            "nextTextIndex": "173"
+            "nextTextIndex": "165"
         },
         {
             "text": "다들 굶기 직전처럼 보인다.",
             "chatType": "sectionHeader",
             "optionalOption": null,
             "characterFace": "none",
-            "nextTextIndex": "158"
+            "nextTextIndex": "165"
         }
     ],
     "choiceSkip": false,
