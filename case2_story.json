@@ -7545,7 +7545,7 @@
             "text": "뭐...??",
             "image": "",
             "animationOption": "none",
-            "type": "onlyText",
+            "type": "monologue",
             "who": "danhee2",
             "optionalOption": null,
             "characterFace": "surprise1"
@@ -7554,7 +7554,7 @@
             "text": "다시???",
             "image": "",
             "animationOption": "none",
-            "type": "onlyText",
+            "type": "monologue",
             "who": "danhee2",
             "optionalOption": null,
             "characterFace": "none"
@@ -7565,7 +7565,7 @@
             "chatType": "onlyText",
             "optionalOption": null,
             "characterFace": "basic",
-            "nextTextIndex": "205"
+            "nextTextIndex": "137"
         },
         {
             "text": "내일 다시요???",
