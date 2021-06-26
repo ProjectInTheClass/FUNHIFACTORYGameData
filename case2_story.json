@@ -6959,7 +6959,7 @@
             "type": "onlyText",
             "who": "kimwoman",
             "optionalOption": null,
-            "characterFace": "scared"
+            "characterFace": "basictalk"
         },
         {
             "text": "지금이다!!!",
@@ -9567,7 +9567,7 @@
                 "caseToUnlock": null,
                 "albumImageToUnlock": null
             },
-            "characterFace": "guard"
+            "characterFace": "danger"
         },
         {
             "text": "이거 받으시오.",
@@ -9708,7 +9708,7 @@
             "image": "",
             "animationOption": "none",
             "type": "onlyText",
-            "who": "poorman",
+            "who": "danhee2",
             "optionalOption": null,
             "characterFace": "surprise1"
         }
