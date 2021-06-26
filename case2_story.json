@@ -2016,7 +2016,7 @@
             "text": "나에게 과연..볼 수 있는 기회가 올까?",
             "image": "",
             "animationOption": "none",
-            "type": "onlyText",
+            "type": "monologue",
             "isGodChat": true,
             "who": "danhee",
             "optionalOption": null,
@@ -3548,7 +3548,7 @@
         "animationOption": "none",
         "type": "monologue",
         "isGodChat": false,
-        "who": "hwiryeong",
+        "who": "danhee2",
         "optionalOption": null,
         "characterFace": "happy1"
     }],
@@ -6452,7 +6452,7 @@
             "text": "당황해서 말이랑 행동이 막 나오네..;;",
             "image": "",
             "animationOption": "none",
-            "type": "onlyText",
+            "type": "monologue",
             "who": "danhee2",
             "optionalOption": null,
             "characterFace": "none"
