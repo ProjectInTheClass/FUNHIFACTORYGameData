@@ -13318,18 +13318,18 @@
         }
     ],
     "choices": [{
-            "text": "설마...나 이 세계에 갇힌 거야..?",
+            "text": "설마... 나 이 세계에 갇힌 거야..?",
             "chatType": "onlyText",
             "optionalOption": null,
             "characterFace": "surprise1",
-            "nextTextIndex": "236"
+            "nextTextIndex": "237"
         },
         {
-            "text": "설마..나 벌 받은 건가..?",
+            "text": "설마.. 나 벌 받은 건가..?",
             "chatType": "onlyText",
             "optionalOption": null,
             "characterFace": "surprise1",
-            "nextTextIndex": "236"
+            "nextTextIndex": "237"
         }
     ],
     "choiceSkip": false,
