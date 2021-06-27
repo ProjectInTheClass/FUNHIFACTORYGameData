@@ -12046,8 +12046,10 @@
     "chats": [{
         "text": "어느 정도 짐작은 했지만..진짜였네요...",
         "image": "",
+        "isGodChat": true,
         "animationOption": "none",
         "type": "onlyText",
+
         "who": "danhee2",
         "optionalOption": null,
         "characterFace": "none"
