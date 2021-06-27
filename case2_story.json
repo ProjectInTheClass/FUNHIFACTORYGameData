@@ -2248,7 +2248,7 @@
             "optionalOption": null,
             "who": "danhee",
             "characterFace": "basic",
-            "nextTextIndex": "047"
+            "nextTextIndex": "046"
         }
     ],
     "choiceSkip": false,
@@ -4441,7 +4441,7 @@
             "type": "monologue",
             "who": "danhee2",
             "optionalOption": null,
-            "characterFace": "none"
+            "characterFace": "basic"
         },
         {
             "text": "나는 대문 밖으로 나왔다.",
