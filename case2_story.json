@@ -35,6 +35,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "002",
@@ -85,6 +86,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "003",
@@ -129,6 +131,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "004",
@@ -161,6 +164,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "005",
@@ -200,6 +204,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "006",
@@ -253,6 +258,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "007",
@@ -315,6 +321,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "008",
@@ -376,6 +383,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "009",
@@ -436,6 +444,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "010",
@@ -478,6 +487,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "011",
@@ -540,6 +550,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "012",
@@ -584,6 +595,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "013",
@@ -636,6 +648,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "014",
@@ -678,6 +691,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "015",
@@ -711,6 +725,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "016",
@@ -765,6 +780,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "017",
@@ -796,6 +812,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "018",
@@ -827,6 +844,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "019",
@@ -923,6 +941,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "020",
@@ -977,6 +996,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "021",
@@ -1051,6 +1071,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "022",
@@ -1105,6 +1126,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "023",
@@ -1147,6 +1169,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "024",
@@ -1189,6 +1212,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "025",
@@ -1222,6 +1246,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "026",
@@ -1264,6 +1289,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "027",
@@ -1326,6 +1352,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "028",
@@ -1357,6 +1384,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "029",
@@ -1419,6 +1447,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "030",
@@ -1452,6 +1481,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "031",
@@ -1516,6 +1546,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "032",
@@ -1574,6 +1605,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "033",
@@ -1611,6 +1643,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "034",
@@ -1673,6 +1706,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "035",
@@ -1706,6 +1740,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "036",
@@ -1758,6 +1793,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "037",
@@ -1822,6 +1858,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "038",
@@ -1853,6 +1890,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "039",
@@ -1917,6 +1955,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "040",
@@ -1989,6 +2028,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "041",
@@ -2041,6 +2081,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "042",
@@ -2115,6 +2156,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "043",
@@ -2159,6 +2201,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "044",
@@ -2221,6 +2264,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "045",
@@ -2254,6 +2298,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "046",
@@ -2330,6 +2375,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "047",
@@ -2490,6 +2536,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "048",
@@ -2632,6 +2679,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "049",
@@ -2684,6 +2732,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "050",
@@ -2736,6 +2785,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "051",
@@ -2808,6 +2858,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "052",
@@ -2850,6 +2901,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "053",
@@ -2880,6 +2932,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "054",
@@ -2942,6 +2995,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "055",
@@ -3014,6 +3068,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "056",
@@ -3076,6 +3131,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "057",
@@ -3161,6 +3217,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "normal"
 },
 {
     "id": "058",
@@ -3226,6 +3283,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "normal"
 },
 {
     "id": "059",
@@ -3281,6 +3339,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "normal"
 },
 {
     "id": "060",
@@ -3311,6 +3370,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "normal"
 },
 {
     "id": "061",
@@ -3341,6 +3401,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "normal"
 },
 {
     "id": "062",
@@ -3399,6 +3460,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "normal"
 },
 {
     "id": "063",
@@ -3484,6 +3546,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "normal"
 },
 {
     "id": "064",
@@ -3539,6 +3602,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "normal"
 },
 {
     "id": "065",
@@ -3570,6 +3634,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "normal"
 },
 {
     "id": "066",
@@ -3600,6 +3665,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "normal"
 },
 {
     "id": "067",
@@ -3640,6 +3706,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "normal"
 },
 {
     "id": "068",
@@ -3680,6 +3747,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "normal"
 },
 {
     "id": "069",
@@ -3738,6 +3806,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "normal"
 },
 {
     "id": "070",
@@ -3823,6 +3892,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "normal"
 },
 {
     "id": "071",
@@ -3962,6 +4032,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "normal"
 },
 {
     "id": "072",
@@ -4011,6 +4082,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "normal"
 },
 {
     "id": "073",
@@ -4060,6 +4132,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "normal"
 },
 {
     "id": "074",
@@ -4136,6 +4209,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "normal"
 },
 {
     "id": "075",
@@ -4185,6 +4259,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "normal"
 },
 {
     "id": "076",
@@ -4279,6 +4354,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "normal"
 },
 {
     "id": "077",
@@ -4346,6 +4422,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "normal"
 },
 {
     "id": "078",
@@ -4404,6 +4481,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "normal"
 },
 {
     "id": "079",
@@ -4471,6 +4549,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "normal"
 },
 {
     "id": "080",
@@ -4531,6 +4610,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "081",
@@ -4623,6 +4703,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "082",
@@ -4665,6 +4746,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "083",
@@ -4737,6 +4819,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "084",
@@ -4789,6 +4872,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "085",
@@ -4871,6 +4955,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "086",
@@ -4943,6 +5028,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "normal"
 },
 {
     "id": "087",
@@ -5005,6 +5091,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "normal"
 },
 {
     "id": "088",
@@ -5067,6 +5154,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "nervous1"
+    "currentRoute": "normal"
 },
 {
     "id": "089",
@@ -5109,6 +5197,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "nervous1"
+    "currentRoute": "normal"
 },
 {
     "id": "090",
@@ -5194,6 +5283,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "normal"
 },
 {
     "id": "091",
@@ -5243,6 +5333,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous2"
+    "currentRoute": "normal"
 },
 {
     "id": "092",
@@ -5292,6 +5383,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous2"
+    "currentRoute": "normal"
 },
 {
     "id": "093",
@@ -5368,6 +5460,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous2"
+    "currentRoute": "normal"
 },
 {
     "id": "094",
@@ -5408,6 +5501,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous2"
+    "currentRoute": "normal"
 },
 {
     "id": "095",
@@ -5448,6 +5542,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous2"
+    "currentRoute": "normal"
 },
 {
     "id": "096",
@@ -5506,6 +5601,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "097",
@@ -5536,6 +5632,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "261",
@@ -5576,6 +5673,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "normal"
 },
 {
     "id": "098",
@@ -5606,6 +5704,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "099",
@@ -5636,6 +5735,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "100",
@@ -5703,6 +5803,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "none"
+    "currentRoute": "normal"
 },
 {
     "id": "101",
@@ -5743,6 +5844,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "normal"
 },
 {
     "id": "102",
@@ -5773,6 +5875,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "normal"
 },
 {
     "id": "103",
@@ -5822,6 +5925,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "normal"
 },
 {
     "id": "104",
@@ -5852,6 +5956,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "normal"
 },
 {
     "id": "105",
@@ -5910,6 +6015,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "normal"
 },
 {
     "id": "106",
@@ -5940,6 +6046,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "normal"
 },
 {
     "id": "107",
@@ -5970,6 +6077,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "normal"
 },
 {
     "id": "108",
@@ -6000,6 +6108,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "normal"
 },
 {
     "id": "109",
@@ -6043,6 +6152,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "normal"
 },
 {
     "id": "110",
@@ -6073,6 +6183,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "normal"
 },
 {
     "id": "111",
@@ -6103,6 +6214,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "normal"
 },
 {
     "id": "112",
@@ -6143,6 +6255,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "normal"
 },
 {
     "id": "113",
@@ -6173,6 +6286,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "normal"
 },
 {
     "id": "114",
@@ -6203,6 +6317,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "normal"
 },
 {
     "id": "115",
@@ -6303,6 +6418,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "first"
 },
 {
     "id": "116",
@@ -6361,6 +6477,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "first"
 },
 {
     "id": "117",
@@ -6512,6 +6629,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous2"
+    "currentRoute": "second"
 },
 {
     "id": "118",
@@ -6552,6 +6670,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous2"
+    "currentRoute": "second"
 },
 {
     "id": "119",
@@ -6610,6 +6729,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous2"
+    "currentRoute": "second"
 },
 {
     "id": "120",
@@ -6634,6 +6754,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous2"
+    "currentRoute": "first"
 },
 {
     "id": "121",
@@ -6728,6 +6849,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous2"
+    "currentRoute": "first"
 },
 {
     "id": "122",
@@ -6777,6 +6899,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous2"
+    "currentRoute": "first"
 },
 {
     "id": "123",
@@ -6807,6 +6930,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous2"
+    "currentRoute": "first"
 },
 {
     "id": "124",
@@ -6837,6 +6961,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "first"
 },
 {
     "id": "125",
@@ -6931,6 +7056,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "first"
 },
 {
     "id": "126",
@@ -7052,6 +7178,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "first"
 },
 {
     "id": "127",
@@ -7110,6 +7237,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "first"
 },
 {
     "id": "128",
@@ -7186,6 +7314,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "first"
 },
 {
     "id": "129",
@@ -7235,6 +7364,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "first"
 },
 {
     "id": "130",
@@ -7293,6 +7423,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "first"
 },
 {
     "id": "131",
@@ -7323,6 +7454,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "none"
+    "currentRoute": "first"
 },
 {
     "id": "132",
@@ -7356,6 +7488,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "none"
+    "currentRoute": "first"
 },
 {
     "id": "133",
@@ -7462,6 +7595,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous2"
+    "currentRoute": "first"
 },
 {
     "id": "134",
@@ -7502,6 +7636,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous2"
+    "currentRoute": "first"
 },
 {
     "id": "135",
@@ -7578,6 +7713,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous2"
+    "currentRoute": "first"
 },
 {
     "id": "136",
@@ -7654,6 +7790,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous2"
+    "currentRoute": "first"
 },
 {
     "id": "137",
@@ -7742,6 +7879,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "none"
+    "currentRoute": "first"
 },
 {
     "id": "138",
@@ -7809,6 +7947,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "none"
+    "currentRoute": "first"
 },
 {
     "id": "139",
@@ -7885,6 +8024,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "normal"
+    "currentRoute": "first"
 },
 {
     "id": "140",
@@ -7979,6 +8119,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "normal"
+    "currentRoute": "first"
 },
 {
     "id": "141",
@@ -8064,6 +8205,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "first"
 },
 {
     "id": "142",
@@ -8167,6 +8309,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "normal"
+    "currentRoute": "first"
 },
 {
     "id": "143",
@@ -8288,6 +8431,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "normal"
+    "currentRoute": "first"
 },
 {
     "id": "144",
@@ -8364,6 +8508,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous2"
+    "currentRoute": "first"
 },
 {
     "id": "145",
@@ -8431,6 +8576,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous2"
+    "currentRoute": "first"
 },
 {
     "id": "146",
@@ -8461,6 +8607,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous2"
+    "currentRoute": "first"
 },
 {
     "id": "147",
@@ -8501,6 +8648,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous2"
+    "currentRoute": "first"
 },
 {
     "id": "148",
@@ -8577,6 +8725,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous2"
+    "currentRoute": "first"
 },
 {
     "id": "149",
@@ -8629,6 +8778,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "none"
+    "currentRoute": "first"
 },
 {
     "id": "150",
@@ -8669,6 +8819,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "none"
+    "currentRoute": "first"
 },
 {
     "id": "151",
@@ -8709,6 +8860,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "none"
+    "currentRoute": "first"
 },
 {
     "id": "152",
@@ -8767,6 +8919,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "none"
+    "currentRoute": "first"
 },
 {
     "id": "153",
@@ -8807,6 +8960,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "none"
+    "currentRoute": "first"
 },
 {
     "id": "154",
@@ -8858,6 +9012,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "none"
+    "currentRoute": "first"
 },
 {
     "id": "155",
@@ -8945,6 +9100,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "none"
+    "currentRoute": "first"
 },
 {
     "id": "156",
@@ -8985,6 +9141,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "none"
+    "currentRoute": "first"
 },
 {
     "id": "157",
@@ -9025,6 +9182,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "none"
+    "currentRoute": "first"
 },
 {
     "id": "157",
@@ -9074,6 +9232,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "none"
+    "currentRoute": "first"
 },
 {
     "id": "158",
@@ -9104,6 +9263,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "none"
+    "currentRoute": "first"
 },
 {
     "id": "159",
@@ -9155,6 +9315,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "none"
+    "currentRoute": "first"
 },
 {
     "id": "160",
@@ -9206,6 +9367,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "none"
+    "currentRoute": "first"
 },
 {
     "id": "161",
@@ -9236,6 +9398,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "none"
+    "currentRoute": "first"
 },
 {
     "id": "162",
@@ -9276,6 +9439,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "none"
+    "currentRoute": "first"
 },
 {
     "id": "163",
@@ -9325,6 +9489,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "none"
+    "currentRoute": "first"
 },
 {
     "id": "164",
@@ -9383,6 +9548,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "first"
 },
 {
     "id": "165",
@@ -9423,6 +9589,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "first"
 },
 {
     "id": "166",
@@ -9463,6 +9630,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "first"
 },
 {
     "id": "167",
@@ -9493,6 +9661,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "first"
 },
 {
     "id": "168",
@@ -9551,6 +9720,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "first"
 },
 {
     "id": "169",
@@ -9624,6 +9794,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "normal"
+    "currentRoute": "first"
 },
 {
     "id": "170",
@@ -9682,6 +9853,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "normal"
+    "currentRoute": "first"
 },
 {
     "id": "171",
@@ -9731,6 +9903,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "normal"
+    "currentRoute": "first"
 },
 {
     "id": "172",
@@ -9761,6 +9934,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "normal"
+    "currentRoute": "first"
 },
 {
     "id": "173",
@@ -9810,6 +9984,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous2"
+    "currentRoute": "first"
 },
 {
     "id": "174",
@@ -9868,6 +10043,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous2"
+    "currentRoute": "first"
 },
 {
     "id": "175",
@@ -9898,6 +10074,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous2"
+    "currentRoute": "first"
 },
 {
     "id": "176",
@@ -9956,6 +10133,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous2"
+    "currentRoute": "first"
 },
 {
     "id": "177",
@@ -9996,6 +10174,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous2"
+    "currentRoute": "first"
 },
 {
     "id": "178",
@@ -10036,6 +10215,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous2"
+    "currentRoute": "first"
 },
 {
     "id": "179",
@@ -10085,6 +10265,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous2"
+    "currentRoute": "first"
 },
 {
     "id": "180",
@@ -10115,6 +10296,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous2"
+    "currentRoute": "first"
 },
 {
     "id": "181",
@@ -10145,6 +10327,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous2"
+    "currentRoute": "first"
 },
 {
     "id": "182",
@@ -10194,6 +10377,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous2"
+    "currentRoute": "first"
 },
 {
     "id": "183",
@@ -10234,6 +10418,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous2"
+    "currentRoute": "first"
 },
 {
     "id": "184",
@@ -10283,6 +10468,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous2"
+    "currentRoute": "first"
 },
 {
     "id": "185",
@@ -10313,6 +10499,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "first"
 },
 {
     "id": "186",
@@ -10343,6 +10530,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "first"
 },
 {
     "id": "187",
@@ -10383,6 +10571,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "first"
 },
 {
     "id": "188",
@@ -10441,6 +10630,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "first"
 },
 {
     "id": "189",
@@ -10471,6 +10661,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "first"
 },
 {
     "id": "190",
@@ -10520,6 +10711,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "first"
 },
 {
     "id": "191",
@@ -10587,6 +10779,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "first"
 },
 {
     "id": "192",
@@ -10617,6 +10810,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "first"
 },
 {
     "id": "193",
@@ -10647,6 +10841,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "first"
 },
 {
     "id": "194",
@@ -10723,6 +10918,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "first"
 },
 {
     "id": "195",
@@ -10781,6 +10977,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "first"
 },
 {
     "id": "196",
@@ -10839,6 +11036,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "first"
 },
 {
     "id": "197",
@@ -10942,6 +11140,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "first"
 },
 {
     "id": "198",
@@ -11000,6 +11199,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "first"
 },
 {
     "id": "199",
@@ -11058,6 +11258,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "first"
 },
 {
     "id": "200",
@@ -11088,6 +11289,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "first"
 },
 {
     "id": "201",
@@ -11155,6 +11357,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "first"
 },
 {
     "id": "202",
@@ -11213,6 +11416,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "first"
 },
 {
     "id": "203",
@@ -11271,6 +11475,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "first"
 },
 {
     "id": "204",
@@ -11374,6 +11579,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "first"
 },
 {
     "id": "205",
@@ -11486,6 +11692,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "first"
 },
 {
     "id": "206",
@@ -11516,6 +11723,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "none"
+    "currentRoute": "first"
 },
 {
     "id": "207",
@@ -11556,6 +11764,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "none"
+    "currentRoute": "first"
 },
 {
     "id": "208",
@@ -11749,6 +11958,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "first"
 },
 {
     "id": "209",
@@ -11780,6 +11990,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "normal"
+    "currentRoute": "first"
 },
 {
     "id": "210",
@@ -11832,6 +12043,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "normal"
+    "currentRoute": "first"
 },
 {
     "id": "211",
@@ -11884,6 +12096,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "normal"
+    "currentRoute": "first"
 },
 {
     "id": "212",
@@ -11946,6 +12159,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "normal"
+    "currentRoute": "first"
 },
 {
     "id": "213",
@@ -11988,6 +12202,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "normal"
+    "currentRoute": "first"
 },
 {
     "id": "214",
@@ -12040,6 +12255,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "normal"
+    "currentRoute": "first"
 },
 {
     "id": "215",
@@ -12072,6 +12288,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "normal"
+    "currentRoute": "first"
 },
 {
     "id": "216",
@@ -12144,6 +12361,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "normal"
+    "currentRoute": "first"
 },
 {
     "id": "217",
@@ -12196,6 +12414,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "normal"
+    "currentRoute": "first"
 },
 {
     "id": "218",
@@ -12263,6 +12482,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "normal"
 },
 {
     "id": "219",
@@ -12318,6 +12538,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "second"
 },
 {
     "id": "220",
@@ -12380,6 +12601,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "second"
 },
 {
     "id": "221",
@@ -12442,6 +12664,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "second"
 },
 {
     "id": "222",
@@ -12466,6 +12689,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "second"
 },
 {
     "id": "223",
@@ -12558,6 +12782,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "second"
 },
 {
     "id": "224",
@@ -12620,6 +12845,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "second"
 },
 {
     "id": "225",
@@ -12702,6 +12928,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "nervous1"
+    "currentRoute": "second"
 },
 {
     "id": "226",
@@ -12744,6 +12971,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "nervous1"
+    "currentRoute": "second"
 },
 {
     "id": "227",
@@ -12816,6 +13044,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "second"
 },
 {
     "id": "228",
@@ -12927,6 +13156,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "nervous1"
+    "currentRoute": "second"
 },
 {
     "id": "229",
@@ -12979,6 +13209,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "second"
 },
 {
     "id": "230",
@@ -13010,6 +13241,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "second"
 },
 {
     "id": "231",
@@ -13040,6 +13272,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "second"
 },
 {
     "id": "232",
@@ -13125,6 +13358,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "second"
 },
 {
     "id": "233",
@@ -13210,6 +13444,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "second"
 },
 {
     "id": "234",
@@ -13240,6 +13475,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "second"
 },
 {
     "id": "235",
@@ -13280,6 +13516,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "second"
 },
 {
     "id": "236",
@@ -13338,6 +13575,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "second"
 },
 {
     "id": "237",
@@ -13396,6 +13634,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "second"
 },
 {
     "id": "238",
@@ -13472,6 +13711,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "normal"
+    "currentRoute": "second"
 },
 {
     "id": "239",
@@ -13517,6 +13757,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "second"
 },
 {
     "id": "240",
@@ -13672,6 +13913,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "second"
 },
 {
     "id": "241",
@@ -13702,6 +13944,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "second"
 },
 {
     "id": "242",
@@ -13732,6 +13975,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "second"
 },
 {
     "id": "243",
@@ -13817,6 +14061,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "second"
 },
 {
     "id": "243",
@@ -13866,6 +14111,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "second"
 },
 {
     "id": "244",
@@ -13957,6 +14203,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "second"
 },
 {
     "id": "245",
@@ -14049,6 +14296,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "second"
 },
 {
     "id": "246",
@@ -14079,6 +14327,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "second"
 },
 {
     "id": "247",
@@ -14146,6 +14395,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "second"
 },
 {
     "id": "248",
@@ -14213,6 +14463,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "nervous1"
+    "currentRoute": "second"
 },
 {
     "id": "249",
@@ -14262,6 +14513,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "normal"
+    "currentRoute": "second"
 },
 {
     "id": "250",
@@ -14302,6 +14554,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "none"
+    "currentRoute": "second"
 },
 {
     "id": "251",
@@ -14384,6 +14637,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "nervous2"
+    "currentRoute": "second"
 },
 {
     "id": "252",
@@ -14424,6 +14678,7 @@
     "choiceSkip": true,
     "isGodChat": false,
     "backGroundMusic": "normal"
+    "currentRoute": "second"
 },
 {
     "id": "253",
@@ -14455,6 +14710,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "normal"
+    "currentRoute": "second"
 },
 {
     "id": "254",
@@ -14540,19 +14796,41 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "normal"
+    "currentRoute": "second"
 },
 {
     "id": "255",
     "chats": [{
         "text": "그래. 그럼 가거라.",
         "image": "",
-        "animationOption": "fadeOut",
+        "animationOption": "none",
         "type": "onlyText",
         "isGodChat": true,
         "who": "hwiryeong",
         "optionalOption": null,
         "characterFace": "basic"
-    }],
+    },
+    {
+        "text": "너의 솔직함을 보기 위해... 기억은 지워두는 편이 좋겠군.",
+        "image": "",
+        "animationOption": "none",
+        "type": "onlyText",
+        "isGodChat": true,
+        "who": "hwiryeong",
+        "optionalOption": null,
+        "characterFace": "straight"
+    },
+    {
+        "text": "어? 방금 뭐라고 하신 건가?",
+        "image": "",
+        "animationOption": "fadeOut",
+        "type": "onlyText",
+        "isGodChat": true,
+        "who": "danhee2",
+        "optionalOption": null,
+        "characterFace": "surprise1"
+    }
+    ],
     "choices": [{
             "text": "",
             "chatType": "onlyText",
@@ -14571,6 +14849,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "normal"
+    "currentRoute": "second"
 },
 {
     "id": "256",
@@ -14643,6 +14922,7 @@
     "choiceSkip": false,
     "isGodChat": true,
     "backGroundMusic": "normal"
+    "currentRoute": "second"
 },
 {
     "id": "257",
@@ -14685,6 +14965,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "normal"
+    "currentRoute": "second"
 },
 {
     "id": "258",
@@ -14725,7 +15006,8 @@
     ],
     "choiceSkip": true,
     "isGodChat": true,
-    "backGroundMusic": ""
+    "backGroundMusic": "normal"
+    "currentRoute": "second"
 },
 {
     "id": "259",
@@ -14802,6 +15084,7 @@
     "choiceSkip": true,
     "isGodChat": true,
     "backGroundMusic": "normal"
+    "currentRoute": "second"
 },
 {
     "id": "260",
@@ -14842,6 +15125,7 @@
     "choiceSkip": false,
     "isGodChat": false,
     "backGroundMusic": "highlyElated"
+    "currentRoute": "second"
 }
 
 ]
