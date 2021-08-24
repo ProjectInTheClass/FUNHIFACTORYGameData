@@ -11,7 +11,7 @@
                 "optionalOption" : {
                     "achievementToUnlock": null,
                     "informationToUnlock": null,
-                    "gameCharacterToUnlock": null,
+                    "gameCharacterToUnlock":"danhee",
                     "caseToUnlock": null,
                     "albumImageToUnlock": "donhwamun_with_danhee",
                     "checkPointToUnlock": "checkPoint_0_0_1"
@@ -41,7 +41,13 @@
                 "animationOption": "none",
                 "type": "sectionHeader",
                 "who": "danhee",
-                "optionalOption" : null,
+                "optionalOption" : {
+                    "achievementToUnlock": null,
+                    "informationToUnlock": null,
+                    "gameCharacterToUnlock": "tourguide",
+                    "caseToUnlock": null,
+                    "albumImageToUnlock": null
+                },
                 "characterFace": "none"
             },
             {
