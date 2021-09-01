@@ -2488,7 +2488,7 @@
             "type": "onlyText",
             "who": "igwi",
             "optionalOption": null,
-            "characterFace": "basic"
+            "characterFace": "basictalk"
         },
         {
             "text": "그러다 모두 들통이 나면 어쩌려고 그러는 겐가?",
@@ -2506,7 +2506,7 @@
             "type": "onlyText",
             "who": "igwi",
             "optionalOption": null,
-            "characterFace": "basic"
+            "characterFace": "straight"
         },
         {
             "text": "저 사람은 누구지?",
@@ -14422,7 +14422,7 @@
             "image": "",
             "animationOption": "none",
             "type": "onlyText",
-            "who": "extra3",
+            "who": "extra5",
             "optionalOption": null,
             "characterFace": "basic"
         },
@@ -14572,7 +14572,7 @@
             "image": "",
             "animationOption": "none",
             "type": "onlyText",
-            "who": "extra3",
+            "who": "extra5",
             "optionalOption": null,
             "characterFace": "basic"
         },
